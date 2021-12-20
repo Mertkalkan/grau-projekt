@@ -12,12 +12,6 @@ export class AppComponent {
   
   constructor(private apiService: ApiService) { }
 
-  s(){
-    this.apiService.getLocations().subscribe((data)=> {
-      console.log(data)
-    });
-  }
-
   }
 
   
