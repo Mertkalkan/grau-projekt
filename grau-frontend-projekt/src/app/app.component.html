@@ -1,2 +1,18 @@
-<verkehr-chart></verkehr-chart>
-<fussgaenger-chart></fussgaenger-chart>
+<p>
+  <mat-toolbar color="primary">
+  <mat-toolbar-row>
+    <span>Dashboard</span>
+  </mat-toolbar-row>
+  <mat-toolbar-row>
+    <div class="button-groups">
+      <p class="slider-text">Dark Mode</p>
+      <div>
+      <mat-slide-toggle [(ngModel)]="isChecked" (change)="changed()"> </mat-slide-toggle>
+    </div>
+    </div>
+  </mat-toolbar-row>
+  </mat-toolbar>
+</p>
+<verkehr-chart [theme]="theme"></verkehr-chart>
+<fussgaenger-chart [theme]="theme"></fussgaenger-chart>
+<covid-faelle-chart [theme]="theme"></covid-faelle-chart>

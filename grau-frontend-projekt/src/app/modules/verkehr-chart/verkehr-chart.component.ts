@@ -1,5 +1,8 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { EChartsOption } from 'echarts';
+import { ThemeOption } from 'ngx-echarts';
+import { Traffic } from 'src/app/models/traffic';
+import { LocalDataService } from 'src/app/services/local-data/local-data.service';
 
 @Component({
   selector: 'verkehr-chart',
@@ -8,14 +11,32 @@ import { EChartsOption } from 'echarts';
 })
 export class VerkehrChartComponent implements OnInit {
 
-  constructor() { }
+  @Input() theme: string | ThemeOption;
+
+  timestamps: string[] = []
+  pkw: number[] = []
+  lkw: number[] = []
+  motorrad: number[] = []
+  kleintransporter: number[] = []
+  mavi: Traffic = this.localDataService.getMavi1()
+
+  timestampsHead = ['days']
+  pkwHead: (string | number)[] = ["pkw"]
+  lkwHead: (string | number)[] = ["lkw"]
+  motorradHead: (string | number)[] = ["motorrad"]
+  kleintransporterHead: (string | number)[] = ["kleintransporter"]
+
+  constructor(private localDataService: LocalDataService) {
+    this.theme = ''
+   }
 
   ngOnInit(): void {
+    this.processingData()
   }
-  
+
   options: EChartsOption = {
     title: {
-      text: 'Stacked Area Chart'
+      text: 'Verkehr Pro Tag'
     },
     tooltip: {
       trigger: 'axis',
@@ -26,94 +47,90 @@ export class VerkehrChartComponent implements OnInit {
         }
       }
     },
+    legend: {
+      data: ['pkw', 'lkw', 'motorrad', 'kleintransporter']
+    },
     toolbox: {
       feature: {
-        saveAsImage: {}
+        dataView: { show: true, readOnly: false },
+        magicType: { show: true, type: ['line', 'bar'] },
+        restore: { show: true },
+        saveAsImage: { show: true }
       }
     },
     grid: {
-      top: '55%',
-      left: '5%',
-      right: '5%',
-      bottom: '3%',
-      containLabel: true
+      containLabel: true,
+      top: '50%',
+      left: '5%'
     },
+    dataZoom: [
+      {
+        show: true,
+        start: 0,
+        end: 100
+      },
+    ],
     dataset: {
       source: [
-        ['days', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
-        ['Email', 120, 132, 101, 134, 90, 230, 210],
-        ['Union Ads', 220, 182, 191, 234, 290, 330, 310],
-        ['Video Ads', 150, 232, 201, 154, 190, 330, 410],
-        ['Direct', 320, 332, 301, 334, 390, 330, 320],
-        ['Search Engine', 820, 932, 901, 934, 1290, 1330, 1320]
+        this.timestampsHead,
+        this.lkwHead,
+        this.motorradHead,
+        this.kleintransporterHead,
+        this.pkwHead,
       ]
     },
     xAxis: [
       {
         type: 'category',
         boundaryGap: false,
-        data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+        data: this.timestamps
       }
     ],
     yAxis: [
       {
-        type: 'value'
+        type: 'value',
       }
     ],
     series: [
       {
-        name: 'Email',
+        name: 'lkw',
         type: 'line',
         stack: 'Total',
         areaStyle: {},
         emphasis: {
           focus: 'series'
         },
-        data: [120, 132, 101, 134, 90, 230, 210]
+        data: this.lkw
       },
       {
-        name: 'Union Ads',
+        name: 'motorrad',
         type: 'line',
         stack: 'Total',
         areaStyle: {},
         emphasis: {
           focus: 'series'
         },
-        data: [220, 182, 191, 234, 290, 330, 310]
+        data: this.motorrad
       },
       {
-        name: 'Video Ads',
+        name: 'kleintransporter',
         type: 'line',
         stack: 'Total',
         areaStyle: {},
         emphasis: {
           focus: 'series'
         },
-        data: [150, 232, 201, 154, 190, 330, 410]
+        data: this.kleintransporter
       },
       {
-        name: 'Direct',
+        name: 'pkw',
         type: 'line',
         stack: 'Total',
         areaStyle: {},
         emphasis: {
           focus: 'series'
         },
-        data: [320, 332, 301, 334, 390, 330, 320]
-      },
-      {
-        name: 'Search Engine',
-        type: 'line',
-        stack: 'Total',
-        label: {
-          show: true,
-          position: 'top'
-        },
-        areaStyle: {},
-        emphasis: {
-          focus: 'series'
-        },
-        data: [820, 932, 901, 934, 1290, 1330, 1320]
+        data: this.pkw
       },
       {
         type: 'pie',
@@ -128,13 +145,14 @@ export class VerkehrChartComponent implements OnInit {
         },
         encode: {
           itemName: 'days',
-          value: 'Mon',
-          tooltip: 'Mon'
+          value: '16-6-2021',
+          tooltip: '16-6-2021'
         }
       }
     ]
   };
 
+  //Veränderung des Pie Charts
   onChartReady(myChart: any) {
     myChart.on('updateAxisPointer', function (event: any) {
       const xAxisInfo = event.axesInfo[0];
@@ -154,8 +172,71 @@ export class VerkehrChartComponent implements OnInit {
         });
       }
     });
-  
     myChart.setOption(this.options);
+  }
 
+  processingData() {
+    let mavi1: Traffic = this.mavi
+    let timestampKeys = Object.keys(mavi1.timestamps)
+    let timestampData = mavi1.timestamps
+    let pkwData = mavi1.PKW
+    let lkwData = mavi1.LKW
+    let motorradData = mavi1.Motorrad
+    let kleintransporterData = mavi1.Kleintransporter
+
+    let date = new Date(timestampData[timestampKeys[0]])
+
+    let str: string = `${date.getUTCDate()}-${date.getUTCMonth() + 1}-${date.getFullYear()}`
+
+    let pkwCounter = 0
+    let lkwCounter = 0
+    let motorradCounter = 0
+    let kleinTransporterCounter = 0
+    for (let counter = 0; counter < timestampKeys.length; counter++) {
+
+      date = new Date(timestampData[timestampKeys[counter]])
+
+      if (counter == 0) {
+        this.timestamps.push(str)
+        this.timestampsHead.push(str)
+        str = `${date.getUTCDate()}-${date.getUTCMonth() + 1}-${date.getFullYear()}`
+      } else if (str != `${date.getUTCDate()}-${date.getUTCMonth() + 1}-${date.getFullYear()}`) {
+        str = `${date.getUTCDate()}-${date.getUTCMonth() + 1}-${date.getFullYear()}`
+
+        this.timestamps.push(str)
+        this.timestampsHead.push(str)
+
+        this.pkw.push(pkwCounter)
+        this.lkw.push(lkwCounter)
+        this.kleintransporter.push(motorradCounter)
+        this.motorrad.push(kleinTransporterCounter)
+
+
+        this.pkwHead.push(pkwCounter)
+        this.lkwHead.push(lkwCounter)
+        this.motorradHead.push(motorradCounter)
+        this.kleintransporterHead.push(kleinTransporterCounter)
+
+        pkwCounter = 0
+        lkwCounter = 0
+        motorradCounter = 0
+        kleinTransporterCounter = 0
+      }
+      pkwCounter += pkwData[`${counter}`]
+      lkwCounter += lkwData[`${counter}`]
+      motorradCounter += motorradData[`${counter}`]
+      kleinTransporterCounter += kleintransporterData[`${counter}`]
     }
+
+    this.pkw.push(pkwCounter)
+    this.lkw.push(lkwCounter)
+    this.kleintransporter.push(motorradCounter)
+    this.motorrad.push(kleinTransporterCounter)
+
+    this.pkwHead.push(pkwCounter)
+    this.lkwHead.push(lkwCounter)
+    this.motorradHead.push(motorradCounter)
+    this.kleintransporterHead.push(kleinTransporterCounter)
+  }
+
 }

@@ -1,7 +1,7 @@
-import { Component, OnInit } from '@angular/core';
-import { EChartsOption } from 'echarts/types/dist/echarts';
-import { Planken } from 'src/app/models/planken';
-import myData from 'src/assets/plankenMitte.json'
+import { Component, Input, OnInit } from '@angular/core';
+import { EChartsOption, util } from 'echarts/types/dist/echarts';
+import { ThemeOption } from 'ngx-echarts';
+import { LocalDataService } from 'src/app/services/local-data/local-data.service';
 
 @Component({
   selector: 'fussgaenger-chart',
@@ -10,11 +10,27 @@ import myData from 'src/assets/plankenMitte.json'
 })
 export class FussgaengerChartComponent implements OnInit {
 
-  constructor() { }
-  ngOnInit(): void {
+  @Input() theme: string | ThemeOption;
+
+  plankenData: { date: string[], count: number[] } = {
+    date: [],
+    count: []
   }
-  
+
+  weeklyPredestrians: number[] = [];
+
+  constructor(private localDataService: LocalDataService) { 
+    this.theme = ''
+  }
+  ngOnInit(): void {
+    this.processingPedestriansAndDate()
+    this.weeklyPedestrians()
+  }
+
   options: EChartsOption = {
+    title: {
+      text: 'Passantenanzahl pro Tag an den Planken Mitte'
+    },
     tooltip: {
       trigger: 'axis',
       axisPointer: {
@@ -33,53 +49,81 @@ export class FussgaengerChartComponent implements OnInit {
       }
     },
     legend: {
-      data: ['Precipitation', 'Temperature']
+      data: ['Pedestrians', 'Pedestrians average per week']
     },
     xAxis: [
       {
         type: 'category',
-        data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+        data: this.plankenData.date,
         axisPointer: {
           type: 'shadow'
         }
       }
     ],
-    yAxis: [
-      {
-        type: 'value',
-        name: 'Precipitation',
-        min: 0,
-        max: 250,
-        interval: 50,
-        axisLabel: {
-          formatter: '{value} ml'
-        }
-      },
-      {
-        type: 'value',
-        name: 'Temperature',
-        min: 0,
-        max: 25,
-        interval: 5,
-        axisLabel: {
-          formatter: '{value} °C'
-        }
-      }
-    ],
+    yAxis: {},
     series: [
       {
-        name: 'Precipitation',
+        name: 'Pedestrians',
         type: 'bar',
-        data: [
-          2.6, 5.9, 9.0, 26.4, 28.7, 70.7, 175.6, 182.2, 48.7, 18.8, 6.0, 2.3
-        ]
+        data: this.plankenData.count,
       },
       {
-        name: 'Temperature',
+        name: 'Pedestrians average per week',
         type: 'line',
-        yAxisIndex: 1,
-        data: [2.0, 2.2, 3.3, 4.5, 6.3, 10.2, 3, 23.4, 23.0, 16.5, 12.0, 6.2]
+        data: this.weeklyPredestrians
       }
-    ]
+    ],
+    dataZoom: [
+      {
+        show: true,
+        start: 0,
+        end: 100
+      },
+    ],
+    grid: {
+      containLabel: true,
+      left: '5%'
+    }
   };
+
+  processingPedestriansAndDate() {
+    let data = this.localDataService.getPlankenMitteData()
+    let date = new Date(data[0]["time of measurement"])
+    let str: string = `${date.getUTCDate()}-${date.getUTCMonth() + 1}-${date.getFullYear()}`
+    let count = 0
+
+    for (let counter = 0; counter < data.length; counter++) {
+      date = new Date(data[counter]["time of measurement"])
+
+      if (counter == 0) {
+        this.plankenData.date.push(str)
+        str = `${date.getUTCDate()}-${date.getUTCMonth() + 1}-${date.getFullYear()}`
+      } else if (str != `${date.getUTCDate()}-${date.getUTCMonth() + 1}-${date.getFullYear()}`) {
+        str = `${date.getUTCDate()}-${date.getUTCMonth() + 1}-${date.getFullYear()}`
+        this.plankenData.count.push(count)
+        this.plankenData.date.push(str)
+        count = 0
+      }
+      count += parseFloat(data[counter]["pedestrians count"])
+    }
+    this.plankenData.count.push(count)
+  }
+
+  weeklyPedestrians() {
+    let count = 0
+    let data = this.plankenData.count
+    let sevenDayCounter = 0
+    for (let counter = 0; counter <= data.length; counter++) {
+      if (sevenDayCounter == 7) {
+        for (let j = 0; j < 7; j++) {
+          this.weeklyPredestrians.push(Math.floor(count / 7))
+        }
+        count = 0;
+        sevenDayCounter = 0;
+      }
+      sevenDayCounter++;
+      count += data[counter]
+    }
+
+  }
 }
