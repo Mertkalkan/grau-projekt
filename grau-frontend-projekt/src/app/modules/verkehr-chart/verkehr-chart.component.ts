@@ -36,7 +36,8 @@ export class VerkehrChartComponent implements OnInit {
 
   options: EChartsOption = {
     title: {
-      text: 'Verkehr Pro Tag'
+      text: 'Verkehr',
+      subtext: 'Pro Tag',
     },
     tooltip: {
       trigger: 'axis',

@@ -29,7 +29,8 @@ export class FussgaengerChartComponent implements OnInit {
 
   options: EChartsOption = {
     title: {
-      text: 'Passantenanzahl pro Tag an den Planken Mitte'
+      text: 'Passantenanzahl',
+      subtext: 'Pro Tag bei Planken Mitte',
     },
     tooltip: {
       trigger: 'axis',
