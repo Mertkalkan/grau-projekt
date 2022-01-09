@@ -1,4 +1,4 @@
-<p>
+
   <mat-toolbar color="primary">
   <mat-toolbar-row>
     <span>Dashboard</span>
@@ -12,7 +12,9 @@
     </div>
   </mat-toolbar-row>
   </mat-toolbar>
-</p>
+
+<div class="chart-container">
 <verkehr-chart [theme]="theme"></verkehr-chart>
 <fussgaenger-chart [theme]="theme"></fussgaenger-chart>
 <covid-faelle-chart [theme]="theme"></covid-faelle-chart>
+</div>

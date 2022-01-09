@@ -42,9 +42,17 @@ export class FussgaengerChartComponent implements OnInit {
       }
     },
     toolbox: {
+      orient: 'vertical',
+      right: '5%',
       feature: {
         dataView: { show: true, readOnly: false },
         magicType: { show: true, type: ['line', 'bar'] },
+        dataZoom: {
+          yAxisIndex: 'none'
+        },
+        brush: {
+          type: ['rect', 'polygon', 'lineX', 'lineY', 'keep', 'clear'],
+        },
         restore: { show: true },
         saveAsImage: { show: true }
       }
@@ -76,10 +84,11 @@ export class FussgaengerChartComponent implements OnInit {
     ],
     dataZoom: [
       {
-        show: true,
-        start: 0,
-        end: 100
+        type: 'slider'
       },
+      {
+        type: 'inside'
+      }
     ],
     grid: {
       containLabel: true,

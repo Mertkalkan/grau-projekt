@@ -15,6 +15,15 @@ export class CovidFaelleChartComponent implements OnInit {
   gesamt: number[] = []
   bw: number[] = []
   timestampes: string[] = []
+  markLine: echarts.MarkLineComponentOption['data'] = [{
+    name: '15-6-2020',
+    yAxis: 100,
+    xAxis: '15-6-2020',
+    label: {
+      formatter: '{b}',
+      position: 'middle'
+    }
+  }];
 
   constructor(private localeDataService: LocalDataService) {
     this.theme = ''
@@ -31,6 +40,27 @@ export class CovidFaelleChartComponent implements OnInit {
     },
     tooltip: {
       trigger: 'axis'
+    },
+    brush: {
+      toolbox: ['rect', 'polygon', 'lineX', 'lineY', 'keep', 'clear'],
+      xAxisIndex: 0
+    },
+    toolbox: {
+      orient: 'vertical',
+      right: '5%',
+      feature: {
+        dataView: { show: true, readOnly: false },
+        magicType: { show: true, type: ['line', 'bar', 'stack'] },
+        dataZoom: {
+          yAxisIndex: 'none'
+        },
+        brush: {
+          type: ['rect', 'polygon', 'lineX', 'lineY', 'keep', 'clear'],
+        },
+        restore: { show: true },
+        saveAsImage: { show: true },
+       
+      }
     },
     legend: {
       data: ['Deutschland', 'Baden-Württemberg']
@@ -63,35 +93,36 @@ export class CovidFaelleChartComponent implements OnInit {
           itemStyle: {
             color: 'rgba(100, 149, 237, 0.4)'
           },
-          // data: [
-          //   [
-          //     {
-          //       name: 'Corona-Warn-App \n gestartet',
-          //       xAxis: '15-6-2020'
-          //     },
-          //     {
-          //       xAxis: '17-6-2020'
-          //     }
-          //   ],
-          //   [
-          //     {
-          //       name: 'Testpflicht \n Einreisende aus Risikogebieten \n in Kraft getreten',
-          //       xAxis: '7-8-2020'
-          //     },
-          //     {
-          //       xAxis: '9-8-2020'
-          //     }
-          //   ],
-          //   [
-          //     {
-          //       name: 'In öffentlichen Räumen \n Max 50 Personen bei 7 Tagen 35 Neuinfektionen pro 100.000 Einwohner \n Ab 50 Neuinfektionen pro 100.000 Einwohner bei 7 Tagen max. 25 Personen ',
-          //       xAxis: '28-9-2020'
-          //     },
-          //     {
-          //       xAxis: '30-9-2020'
-          //     }
-          //   ],
-          // ]
+          data: [
+            // [
+            //   {
+
+            //     name: 'Corona-Warn-App \ngestartet',
+            //     xAxis: '15-6-2020'
+            //   },
+            //   {
+            //     xAxis: '17-6-2020'
+            //   }
+            // ],
+            // [
+            //   {
+            //     name: 'Testpflicht \nEinreisende aus Risikogebieten \nin Kraft getreten',
+            //     xAxis: '7-8-2020'
+            //   },
+            //   {
+            //     xAxis: '9-8-2020'
+            //   }
+            // ],
+            // [
+            //   {
+            //     name: 'In öffentlichen Räumen \nMax 50 Personen bei 7 Tagen 35 Neuinfektionen pro 100.000 Einwohner \nAb 50 Neuinfektionen pro 100.000 Einwohner bei 7 Tagen max. 25 Personen ',
+            //     xAxis: '28-9-2020'
+            //   },
+            //   {
+            //     xAxis: '30-9-2020'
+            //   }
+            // ],
+          ],
         },
       },
       {
@@ -109,11 +140,38 @@ export class CovidFaelleChartComponent implements OnInit {
     ],
     dataZoom: [
       {
-        show: true,
-        start: 0,
-        end: 100
+        type: 'slider'
       },
+      {
+        type: 'inside'
+      }
     ]
+  }
+
+  onChartReady(myChart: any) {
+    myChart.on('brushSelected', function (params: any) {
+      var brushed = [];
+      var brushComponent = params.batch[0];
+    
+      for (var sIdx = 0; sIdx < brushComponent.selected.length; sIdx++) {
+        var rawIndices = brushComponent.selected[sIdx].dataIndex;
+        brushed.push('[Series ' + sIdx + '] ' + rawIndices.join(', '));
+      }
+    
+      myChart.setOption({
+        title: {
+          backgroundColor: '#333',
+          text: 'SELECTED DATA INDICES: \n' + brushed.join('\n'),
+          bottom: 0,
+          right: '5%',
+          width: 100,
+          textStyle: {
+            fontSize: 12,
+            color: '#fff'
+          }
+        }
+      });
+    });
   }
 
   test() {

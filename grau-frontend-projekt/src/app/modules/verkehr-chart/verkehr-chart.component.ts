@@ -49,12 +49,20 @@ export class VerkehrChartComponent implements OnInit {
       }
     },
     legend: {
-      data: ['pkw', 'lkw', 'motorrad', 'kleintransporter']
+      data: ['PKW', 'LKW', 'Motorrad', 'Kleintransporter']
     },
     toolbox: {
+      orient: 'vertical',
+      right: '5%',
       feature: {
         dataView: { show: true, readOnly: false },
-        magicType: { show: true, type: ['line', 'bar'] },
+        magicType: { show: true, type: ['line', 'bar', 'stack'] },
+        dataZoom: {
+          yAxisIndex: 'none'
+        },
+        brush: {
+          type: ['rect', 'polygon', 'lineX', 'lineY', 'keep', 'clear'],
+        },
         restore: { show: true },
         saveAsImage: { show: true }
       }
@@ -66,10 +74,11 @@ export class VerkehrChartComponent implements OnInit {
     },
     dataZoom: [
       {
-        show: true,
-        start: 0,
-        end: 100
+        type: 'slider'
       },
+      {
+        type: 'inside'
+      }
     ],
     dataset: {
       source: [
@@ -94,7 +103,7 @@ export class VerkehrChartComponent implements OnInit {
     ],
     series: [
       {
-        name: 'lkw',
+        name: 'LKW',
         type: 'line',
         stack: 'Total',
         areaStyle: {},
@@ -104,7 +113,7 @@ export class VerkehrChartComponent implements OnInit {
         data: this.lkw
       },
       {
-        name: 'motorrad',
+        name: 'Motorrad',
         type: 'line',
         stack: 'Total',
         areaStyle: {},
@@ -114,7 +123,7 @@ export class VerkehrChartComponent implements OnInit {
         data: this.motorrad
       },
       {
-        name: 'kleintransporter',
+        name: 'Kleintransporter',
         type: 'line',
         stack: 'Total',
         areaStyle: {},
@@ -124,7 +133,7 @@ export class VerkehrChartComponent implements OnInit {
         data: this.kleintransporter
       },
       {
-        name: 'pkw',
+        name: 'PKW',
         type: 'line',
         stack: 'Total',
         areaStyle: {},
