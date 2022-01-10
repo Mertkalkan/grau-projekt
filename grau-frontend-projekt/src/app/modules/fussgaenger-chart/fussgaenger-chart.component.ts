@@ -50,9 +50,9 @@ export class FussgaengerChartComponent implements OnInit {
         dataZoom: {
           yAxisIndex: 'none'
         },
-        brush: {
-          type: ['rect', 'polygon', 'lineX', 'lineY', 'keep', 'clear'],
-        },
+        // brush: {
+        //   type: ['rect', 'polygon', 'lineX', 'lineY', 'keep', 'clear'],
+        // },
         restore: { show: true },
         saveAsImage: { show: true }
       }

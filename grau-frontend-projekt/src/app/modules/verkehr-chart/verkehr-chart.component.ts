@@ -21,10 +21,10 @@ export class VerkehrChartComponent implements OnInit {
   mavi: Traffic = this.localDataService.getMavi1()
 
   timestampsHead = ['days']
-  pkwHead: (string | number)[] = ["pkw"]
-  lkwHead: (string | number)[] = ["lkw"]
-  motorradHead: (string | number)[] = ["motorrad"]
-  kleintransporterHead: (string | number)[] = ["kleintransporter"]
+  pkwHead: (string | number)[] = ["PKW"]
+  lkwHead: (string | number)[] = ["LKW"]
+  motorradHead: (string | number)[] = ["Motorrad"]
+  kleintransporterHead: (string | number)[] = ["Kleintransporter"]
 
   constructor(private localDataService: LocalDataService) {
     this.theme = ''
@@ -60,9 +60,9 @@ export class VerkehrChartComponent implements OnInit {
         dataZoom: {
           yAxisIndex: 'none'
         },
-        brush: {
-          type: ['rect', 'polygon', 'lineX', 'lineY', 'keep', 'clear'],
-        },
+        // brush: {
+        //   type: ['rect', 'polygon', 'lineX', 'lineY', 'keep', 'clear'],
+        // },
         restore: { show: true },
         saveAsImage: { show: true }
       }
