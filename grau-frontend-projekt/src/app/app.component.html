@@ -1,4 +1,5 @@
-<mat-toolbar color="primary">
+<!-- <mat-toolbar color="primary">
+
   <mat-toolbar-row>
     <span>Dashboard</span>
     <div class="button-groups">
@@ -10,8 +11,18 @@
   </mat-toolbar-row>
 </mat-toolbar>
 
+<div class="c">
 <div class="chart-container">
-  <verkehr-chart [theme]="theme"></verkehr-chart>
-  <fussgaenger-chart [theme]="theme"></fussgaenger-chart>
-  <covid-faelle-chart [theme]="theme"></covid-faelle-chart>
+  <verkehr-chart id="vchart" [theme]="theme"></verkehr-chart>
+  <fussgaenger-chart id="fchart" [theme]="theme"></fussgaenger-chart>
+</div>
+<covid-faelle-chart id="cchart" [theme]="theme"></covid-faelle-chart>
+</div> -->
+
+
+<div class="chart-container">
+  <verkehr-chart id="vchart" [theme]="theme"></verkehr-chart>
+  <fussgaenger-chart id="fchart" [theme]="theme"></fussgaenger-chart>
+
+<covid-faelle-chart id="cchart" [theme]="theme"></covid-faelle-chart>
 </div>
