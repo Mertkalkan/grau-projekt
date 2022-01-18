@@ -1,7 +1,7 @@
 ﻿{
     "Tabelle1": [
         {
-            "undefined": "5/6/20",
+            "Date": "5/6/20",
             "Baden-Württemberg": "8.2",
             "Bayern": "10.1",
             "Berlin": "7.4",
@@ -21,7 +21,7 @@
             "Gesamt": "7.2"
         },
         {
-            "undefined": "5/7/20",
+            "Date": "5/7/20",
             "Baden-Württemberg": "7.0",
             "Bayern": "9.5",
             "Berlin": "7.1",
@@ -41,7 +41,7 @@
             "Gesamt": "6.9"
         },
         {
-            "undefined": "5/8/20",
+            "Date": "5/8/20",
             "Baden-Württemberg": "6.0",
             "Bayern": "9.0",
             "Berlin": "7.3",
@@ -61,7 +61,7 @@
             "Gesamt": "6.5"
         },
         {
-            "undefined": "5/9/20",
+            "Date": "5/9/20",
             "Baden-Württemberg": "6.4",
             "Bayern": "9.4",
             "Berlin": "7.5",
@@ -81,7 +81,7 @@
             "Gesamt": "6.9"
         },
         {
-            "undefined": "5/10/20",
+            "Date": "5/10/20",
             "Baden-Württemberg": "7.0",
             "Bayern": "8.8",
             "Berlin": "7.2",
@@ -101,7 +101,7 @@
             "Gesamt": "6.9"
         },
         {
-            "undefined": "5/11/20",
+            "Date": "5/11/20",
             "Baden-Württemberg": "6.9",
             "Bayern": "8.8",
             "Berlin": "6.6",
@@ -121,7 +121,7 @@
             "Gesamt": "6.9"
         },
         {
-            "undefined": "5/12/20",
+            "Date": "5/12/20",
             "Baden-Württemberg": "7.0",
             "Bayern": "9.2",
             "Berlin": "5.3",
@@ -141,7 +141,7 @@
             "Gesamt": "6.9"
         },
         {
-            "undefined": "5/13/20",
+            "Date": "5/13/20",
             "Baden-Württemberg": "6.7",
             "Bayern": "9.1",
             "Berlin": "4.5",
@@ -161,7 +161,7 @@
             "Gesamt": "6.5"
         },
         {
-            "undefined": "5/14/20",
+            "Date": "5/14/20",
             "Baden-Württemberg": "6.9",
             "Bayern": "8.5",
             "Berlin": "4.2",
@@ -181,7 +181,7 @@
             "Gesamt": "6.1"
         },
         {
-            "undefined": "5/15/20",
+            "Date": "5/15/20",
             "Baden-Württemberg": "6.5",
             "Bayern": "7.8",
             "Berlin": "4.1",
@@ -201,7 +201,7 @@
             "Gesamt": "5.7"
         },
         {
-            "undefined": "5/16/20",
+            "Date": "5/16/20",
             "Baden-Württemberg": "5.6",
             "Bayern": "7.8",
             "Berlin": "4.8",
@@ -221,7 +221,7 @@
             "Gesamt": "5.3"
         },
         {
-            "undefined": "5/17/20",
+            "Date": "5/17/20",
             "Baden-Württemberg": "5.0",
             "Bayern": "7.6",
             "Berlin": "4.9",
@@ -241,7 +241,7 @@
             "Gesamt": "5.2"
         },
         {
-            "undefined": "5/18/20",
+            "Date": "5/18/20",
             "Baden-Württemberg": "5.0",
             "Bayern": "7.5",
             "Berlin": "5.0",
@@ -261,7 +261,7 @@
             "Gesamt": "5.2"
         },
         {
-            "undefined": "5/19/20",
+            "Date": "5/19/20",
             "Baden-Württemberg": "4.4",
             "Bayern": "7.0",
             "Berlin": "5.1",
@@ -281,7 +281,7 @@
             "Gesamt": "4.9"
         },
         {
-            "undefined": "5/20/20",
+            "Date": "5/20/20",
             "Baden-Württemberg": "4.1",
             "Bayern": "6.3",
             "Berlin": "4.9",
@@ -301,7 +301,7 @@
             "Gesamt": "4.8"
         },
         {
-            "undefined": "5/21/20",
+            "Date": "5/21/20",
             "Baden-Württemberg": "3.5",
             "Bayern": "6.1",
             "Berlin": "4.6",
@@ -321,7 +321,7 @@
             "Gesamt": "4.6"
         },
         {
-            "undefined": "5/22/20",
+            "Date": "5/22/20",
             "Baden-Württemberg": "2.6",
             "Bayern": "5.3",
             "Berlin": "4.2",
@@ -341,7 +341,7 @@
             "Gesamt": "4.2"
         },
         {
-            "undefined": "5/23/20",
+            "Date": "5/23/20",
             "Baden-Württemberg": "3.4",
             "Bayern": "5.2",
             "Berlin": "4.6",
@@ -361,7 +361,7 @@
             "Gesamt": "4.1"
         },
         {
-            "undefined": "5/24/20",
+            "Date": "5/24/20",
             "Baden-Württemberg": "3.4",
             "Bayern": "5.0",
             "Berlin": "4.8",
@@ -381,7 +381,7 @@
             "Gesamt": "4.1"
         },
         {
-            "undefined": "5/25/20",
+            "Date": "5/25/20",
             "Baden-Württemberg": "3.4",
             "Bayern": "5.4",
             "Berlin": "4.7",
@@ -401,7 +401,7 @@
             "Gesamt": "4.1"
         },
         {
-            "undefined": "5/26/20",
+            "Date": "5/26/20",
             "Baden-Württemberg": "3.3",
             "Bayern": "5.6",
             "Berlin": "4.1",
@@ -421,7 +421,7 @@
             "Gesamt": "3.9"
         },
         {
-            "undefined": "5/27/20",
+            "Date": "5/27/20",
             "Baden-Württemberg": "2.8",
             "Bayern": "4.8",
             "Berlin": "3.4",
@@ -441,7 +441,7 @@
             "Gesamt": "3.5"
         },
         {
-            "undefined": "5/28/20",
+            "Date": "5/28/20",
             "Baden-Württemberg": "2.4",
             "Bayern": "5.3",
             "Berlin": "2.9",
@@ -461,7 +461,7 @@
             "Gesamt": "3.4"
         },
         {
-            "undefined": "5/29/20",
+            "Date": "5/29/20",
             "Baden-Württemberg": "2.8",
             "Bayern": "5.4",
             "Berlin": "3.6",
@@ -481,7 +481,7 @@
             "Gesamt": "3.6"
         },
         {
-            "undefined": "5/30/20",
+            "Date": "5/30/20",
             "Baden-Württemberg": "2.6",
             "Bayern": "4.9",
             "Berlin": "3.4",
@@ -501,7 +501,7 @@
             "Gesamt": "3.5"
         },
         {
-            "undefined": "5/31/20",
+            "Date": "5/31/20",
             "Baden-Württemberg": "2.1",
             "Bayern": "4.7",
             "Berlin": "4.1",
@@ -521,7 +521,7 @@
             "Gesamt": "3.5"
         },
         {
-            "undefined": "6/1/20",
+            "Date": "6/1/20",
             "Baden-Württemberg": "2.5",
             "Bayern": "4.6",
             "Berlin": "4.5",
@@ -541,7 +541,7 @@
             "Gesamt": "3.6"
         },
         {
-            "undefined": "6/2/20",
+            "Date": "6/2/20",
             "Baden-Württemberg": "2.4",
             "Bayern": "4.2",
             "Berlin": "4.5",
@@ -561,7 +561,7 @@
             "Gesamt": "3.3"
         },
         {
-            "undefined": "6/3/20",
+            "Date": "6/3/20",
             "Baden-Württemberg": "1.9",
             "Bayern": "3.4",
             "Berlin": "4.9",
@@ -581,7 +581,7 @@
             "Gesamt": "2.9"
         },
         {
-            "undefined": "6/4/20",
+            "Date": "6/4/20",
             "Baden-Württemberg": "1.3",
             "Bayern": "3.0",
             "Berlin": "4.5",
@@ -601,7 +601,7 @@
             "Gesamt": "2.6"
         },
         {
-            "undefined": "6/5/20",
+            "Date": "6/5/20",
             "Baden-Württemberg": "1.2",
             "Bayern": "2.8",
             "Berlin": "5.0",
@@ -621,7 +621,7 @@
             "Gesamt": "2.6"
         },
         {
-            "undefined": "6/6/20",
+            "Date": "6/6/20",
             "Baden-Württemberg": "1.2",
             "Bayern": "2.8",
             "Berlin": "4.7",
@@ -641,7 +641,7 @@
             "Gesamt": "2.6"
         },
         {
-            "undefined": "6/7/20",
+            "Date": "6/7/20",
             "Baden-Württemberg": "1.2",
             "Bayern": "2.3",
             "Berlin": "4.9",
@@ -661,7 +661,7 @@
             "Gesamt": "2.5"
         },
         {
-            "undefined": "6/8/20",
+            "Date": "6/8/20",
             "Baden-Württemberg": "1.3",
             "Bayern": "2.2",
             "Berlin": "4.7",
@@ -681,7 +681,7 @@
             "Gesamt": "2.6"
         },
         {
-            "undefined": "6/9/20",
+            "Date": "6/9/20",
             "Baden-Württemberg": "1.5",
             "Bayern": "2.3",
             "Berlin": "5.3",
@@ -701,7 +701,7 @@
             "Gesamt": "2.8"
         },
         {
-            "undefined": "6/10/20",
+            "Date": "6/10/20",
             "Baden-Württemberg": "1.4",
             "Bayern": "2.5",
             "Berlin": "5.3",
@@ -721,7 +721,7 @@
             "Gesamt": "2.8"
         },
         {
-            "undefined": "6/11/20",
+            "Date": "6/11/20",
             "Baden-Württemberg": "1.5",
             "Bayern": "2.6",
             "Berlin": "5.4",
@@ -741,7 +741,7 @@
             "Gesamt": "2.9"
         },
         {
-            "undefined": "6/12/20",
+            "Date": "6/12/20",
             "Baden-Württemberg": "1.4",
             "Bayern": "2.2",
             "Berlin": "5.3",
@@ -761,7 +761,7 @@
             "Gesamt": "2.6"
         },
         {
-            "undefined": "6/13/20",
+            "Date": "6/13/20",
             "Baden-Württemberg": "1.4",
             "Bayern": "2.1",
             "Berlin": "6.8",
@@ -781,7 +781,7 @@
             "Gesamt": "2.5"
         },
         {
-            "undefined": "6/14/20",
+            "Date": "6/14/20",
             "Baden-Württemberg": "1.1",
             "Bayern": "2.1",
             "Berlin": "7.2",
@@ -801,7 +801,7 @@
             "Gesamt": "2.5"
         },
         {
-            "undefined": "6/15/20",
+            "Date": "6/15/20",
             "Baden-Württemberg": "1.0",
             "Bayern": "1.9",
             "Berlin": "8.0",
@@ -821,7 +821,7 @@
             "Gesamt": "2.5"
         },
         {
-            "undefined": "6/16/20",
+            "Date": "6/16/20",
             "Baden-Württemberg": "1.3",
             "Bayern": "1.9",
             "Berlin": "8.5",
@@ -841,7 +841,7 @@
             "Gesamt": "2.6"
         },
         {
-            "undefined": "6/17/20",
+            "Date": "6/17/20",
             "Baden-Württemberg": "1.3",
             "Bayern": "1.8",
             "Berlin": "7.9",
@@ -861,7 +861,7 @@
             "Gesamt": "2.5"
         },
         {
-            "undefined": "6/18/20",
+            "Date": "6/18/20",
             "Baden-Württemberg": "1.2",
             "Bayern": "1.5",
             "Berlin": "7.8",
@@ -881,7 +881,7 @@
             "Gesamt": "2.6"
         },
         {
-            "undefined": "6/19/20",
+            "Date": "6/19/20",
             "Baden-Württemberg": "1.2",
             "Bayern": "1.6",
             "Berlin": "9.9",
@@ -901,7 +901,7 @@
             "Gesamt": "3.2"
         },
         {
-            "undefined": "6/20/20",
+            "Date": "6/20/20",
             "Baden-Württemberg": "1.3",
             "Bayern": "1.7",
             "Berlin": "12.1",
@@ -921,7 +921,7 @@
             "Gesamt": "3.5"
         },
         {
-            "undefined": "6/21/20",
+            "Date": "6/21/20",
             "Baden-Württemberg": "1.2",
             "Bayern": "1.7",
             "Berlin": "12.1",
@@ -941,7 +941,7 @@
             "Gesamt": "3.9"
         },
         {
-            "undefined": "6/22/20",
+            "Date": "6/22/20",
             "Baden-Württemberg": "1.0",
             "Bayern": "1.8",
             "Berlin": "12.6",
@@ -961,7 +961,7 @@
             "Gesamt": "4.4"
         },
         {
-            "undefined": "6/23/20",
+            "Date": "6/23/20",
             "Baden-Württemberg": "1.5",
             "Bayern": "1.9",
             "Berlin": "13.9",
@@ -981,7 +981,7 @@
             "Gesamt": "4.7"
         },
         {
-            "undefined": "6/24/20",
+            "Date": "6/24/20",
             "Baden-Württemberg": "1.6",
             "Bayern": "1.9",
             "Berlin": "13.5",
@@ -1001,7 +1001,7 @@
             "Gesamt": "4.6"
         },
         {
-            "undefined": "6/25/20",
+            "Date": "6/25/20",
             "Baden-Württemberg": "1.7",
             "Bayern": "1.9",
             "Berlin": "12.4",
@@ -1021,7 +1021,7 @@
             "Gesamt": "4.1"
         },
         {
-            "undefined": "6/26/20",
+            "Date": "6/26/20",
             "Baden-Württemberg": "1.8",
             "Bayern": "2.1",
             "Berlin": "11.0",
@@ -1041,7 +1041,7 @@
             "Gesamt": "3.9"
         },
         {
-            "undefined": "6/27/20",
+            "Date": "6/27/20",
             "Baden-Württemberg": "1.9",
             "Bayern": "2.3",
             "Berlin": "8.7",
@@ -1061,7 +1061,7 @@
             "Gesamt": "3.8"
         },
         {
-            "undefined": "6/28/20",
+            "Date": "6/28/20",
             "Baden-Württemberg": "1.6",
             "Bayern": "2.3",
             "Berlin": "8.5",
@@ -1081,7 +1081,7 @@
             "Gesamt": "3.5"
         },
         {
-            "undefined": "6/29/20",
+            "Date": "6/29/20",
             "Baden-Württemberg": "1.5",
             "Bayern": "2.4",
             "Berlin": "8.1",
@@ -1101,7 +1101,7 @@
             "Gesamt": "3.5"
         },
         {
-            "undefined": "6/30/20",
+            "Date": "6/30/20",
             "Baden-Württemberg": "1.9",
             "Bayern": "2.6",
             "Berlin": "7.6",
@@ -1121,7 +1121,7 @@
             "Gesamt": "3.5"
         },
         {
-            "undefined": "7/1/20",
+            "Date": "7/1/20",
             "Baden-Württemberg": "2.1",
             "Bayern": "2.9",
             "Berlin": "6.4",
@@ -1141,7 +1141,7 @@
             "Gesamt": "3.3"
         },
         {
-            "undefined": "7/2/20",
+            "Date": "7/2/20",
             "Baden-Württemberg": "2.2",
             "Bayern": "2.9",
             "Berlin": "6.3",
@@ -1161,7 +1161,7 @@
             "Gesamt": "3.3"
         },
         {
-            "undefined": "7/3/20",
+            "Date": "7/3/20",
             "Baden-Württemberg": "2.0",
             "Bayern": "3.0",
             "Berlin": "5.8",
@@ -1181,7 +1181,7 @@
             "Gesamt": "3.2"
         },
         {
-            "undefined": "7/4/20",
+            "Date": "7/4/20",
             "Baden-Württemberg": "1.7",
             "Bayern": "2.9",
             "Berlin": "6.0",
@@ -1201,7 +1201,7 @@
             "Gesamt": "3.0"
         },
         {
-            "undefined": "7/5/20",
+            "Date": "7/5/20",
             "Baden-Württemberg": "1.4",
             "Bayern": "2.6",
             "Berlin": "6.6",
@@ -1221,7 +1221,7 @@
             "Gesamt": "2.9"
         },
         {
-            "undefined": "7/6/20",
+            "Date": "7/6/20",
             "Baden-Württemberg": "1.3",
             "Bayern": "3.0",
             "Berlin": "7.0",
@@ -1241,7 +1241,7 @@
             "Gesamt": "2.9"
         },
         {
-            "undefined": "7/7/20",
+            "Date": "7/7/20",
             "Baden-Württemberg": "1.7",
             "Bayern": "3.3",
             "Berlin": "5.9",
@@ -1261,7 +1261,7 @@
             "Gesamt": "2.9"
         },
         {
-            "undefined": "7/8/20",
+            "Date": "7/8/20",
             "Baden-Württemberg": "1.5",
             "Bayern": "3.5",
             "Berlin": "6.0",
@@ -1281,7 +1281,7 @@
             "Gesamt": "2.8"
         },
         {
-            "undefined": "7/9/20",
+            "Date": "7/9/20",
             "Baden-Württemberg": "1.5",
             "Bayern": "3.5",
             "Berlin": "5.7",
@@ -1301,7 +1301,7 @@
             "Gesamt": "2.8"
         },
         {
-            "undefined": "7/10/20",
+            "Date": "7/10/20",
             "Baden-Württemberg": "1.7",
             "Bayern": "3.5",
             "Berlin": "5.5",
@@ -1321,7 +1321,7 @@
             "Gesamt": "2.7"
         },
         {
-            "undefined": "7/11/20",
+            "Date": "7/11/20",
             "Baden-Württemberg": "1.8",
             "Bayern": "3.6",
             "Berlin": "5.2",
@@ -1341,7 +1341,7 @@
             "Gesamt": "2.7"
         },
         {
-            "undefined": "7/12/20",
+            "Date": "7/12/20",
             "Baden-Württemberg": "1.6",
             "Bayern": "3.2",
             "Berlin": "4.9",
@@ -1361,7 +1361,7 @@
             "Gesamt": "2.6"
         },
         {
-            "undefined": "7/13/20",
+            "Date": "7/13/20",
             "Baden-Württemberg": "1.6",
             "Bayern": "3.5",
             "Berlin": "4.9",
@@ -1381,7 +1381,7 @@
             "Gesamt": "2.6"
         },
         {
-            "undefined": "7/14/20",
+            "Date": "7/14/20",
             "Baden-Württemberg": "1.9",
             "Bayern": "3.5",
             "Berlin": "4.5",
@@ -1401,7 +1401,7 @@
             "Gesamt": "2.7"
         },
         {
-            "undefined": "7/15/20",
+            "Date": "7/15/20",
             "Baden-Württemberg": "2.0",
             "Bayern": "3.3",
             "Berlin": "4.0",
@@ -1421,7 +1421,7 @@
             "Gesamt": "2.7"
         },
         {
-            "undefined": "7/16/20",
+            "Date": "7/16/20",
             "Baden-Württemberg": "2.2",
             "Bayern": "3.7",
             "Berlin": "3.5",
@@ -1441,7 +1441,7 @@
             "Gesamt": "2.8"
         },
         {
-            "undefined": "7/17/20",
+            "Date": "7/17/20",
             "Baden-Württemberg": "2.1",
             "Bayern": "3.7",
             "Berlin": "3.3",
@@ -1461,7 +1461,7 @@
             "Gesamt": "3.0"
         },
         {
-            "undefined": "7/18/20",
+            "Date": "7/18/20",
             "Baden-Württemberg": "2.4",
             "Bayern": "3.5",
             "Berlin": "3.1",
@@ -1481,7 +1481,7 @@
             "Gesamt": "3.1"
         },
         {
-            "undefined": "7/19/20",
+            "Date": "7/19/20",
             "Baden-Württemberg": "2.2",
             "Bayern": "3.1",
             "Berlin": "3.4",
@@ -1501,7 +1501,7 @@
             "Gesamt": "3.0"
         },
         {
-            "undefined": "7/20/20",
+            "Date": "7/20/20",
             "Baden-Württemberg": "2.0",
             "Bayern": "3.5",
             "Berlin": "3.5",
@@ -1521,7 +1521,7 @@
             "Gesamt": "3.1"
         },
         {
-            "undefined": "7/21/20",
+            "Date": "7/21/20",
             "Baden-Württemberg": "3.0",
             "Bayern": "3.8",
             "Berlin": "3.3",
@@ -1541,7 +1541,7 @@
             "Gesamt": "3.4"
         },
         {
-            "undefined": "7/22/20",
+            "Date": "7/22/20",
             "Baden-Württemberg": "3.0",
             "Bayern": "3.7",
             "Berlin": "3.5",
@@ -1561,7 +1561,7 @@
             "Gesamt": "3.4"
         },
         {
-            "undefined": "7/23/20",
+            "Date": "7/23/20",
             "Baden-Württemberg": "2.7",
             "Bayern": "3.6",
             "Berlin": "3.5",
@@ -1581,7 +1581,7 @@
             "Gesamt": "3.4"
         },
         {
-            "undefined": "7/24/20",
+            "Date": "7/24/20",
             "Baden-Württemberg": "3.6",
             "Bayern": "3.4",
             "Berlin": "3.9",
@@ -1601,7 +1601,7 @@
             "Gesamt": "3.7"
         },
         {
-            "undefined": "7/25/20",
+            "Date": "7/25/20",
             "Baden-Württemberg": "3.7",
             "Bayern": "3.8",
             "Berlin": "5.1",
@@ -1621,7 +1621,7 @@
             "Gesamt": "4.0"
         },
         {
-            "undefined": "7/26/20",
+            "Date": "7/26/20",
             "Baden-Württemberg": "3.2",
             "Bayern": "3.6",
             "Berlin": "5.5",
@@ -1641,7 +1641,7 @@
             "Gesamt": "3.9"
         },
         {
-            "undefined": "7/27/20",
+            "Date": "7/27/20",
             "Baden-Württemberg": "2.9",
             "Bayern": "4.9",
             "Berlin": "5.7",
@@ -1661,7 +1661,7 @@
             "Gesamt": "4.1"
         },
         {
-            "undefined": "7/28/20",
+            "Date": "7/28/20",
             "Baden-Württemberg": "3.3",
             "Bayern": "5.0",
             "Berlin": "5.4",
@@ -1681,7 +1681,7 @@
             "Gesamt": "4.3"
         },
         {
-            "undefined": "7/29/20",
+            "Date": "7/29/20",
             "Baden-Württemberg": "3.9",
             "Bayern": "5.2",
             "Berlin": "5.9",
@@ -1701,7 +1701,7 @@
             "Gesamt": "4.5"
         },
         {
-            "undefined": "7/30/20",
+            "Date": "7/30/20",
             "Baden-Württemberg": "3.7",
             "Bayern": "5.4",
             "Berlin": "7.3",
@@ -1721,7 +1721,7 @@
             "Gesamt": "4.8"
         },
         {
-            "undefined": "7/31/20",
+            "Date": "7/31/20",
             "Baden-Württemberg": "3.9",
             "Bayern": "5.5",
             "Berlin": "7.2",
@@ -1741,7 +1741,7 @@
             "Gesamt": "5.0"
         },
         {
-            "undefined": "8/1/20",
+            "Date": "8/1/20",
             "Baden-Württemberg": "3.3",
             "Bayern": "5.6",
             "Berlin": "7.7",
@@ -1761,7 +1761,7 @@
             "Gesamt": "5.1"
         },
         {
-            "undefined": "8/2/20",
+            "Date": "8/2/20",
             "Baden-Württemberg": "2.9",
             "Bayern": "4.5",
             "Berlin": "8.5",
@@ -1781,7 +1781,7 @@
             "Gesamt": "5.0"
         },
         {
-            "undefined": "8/3/20",
+            "Date": "8/3/20",
             "Baden-Württemberg": "2.7",
             "Bayern": "4.5",
             "Berlin": "8.6",
@@ -1801,7 +1801,7 @@
             "Gesamt": "5.1"
         },
         {
-            "undefined": "8/4/20",
+            "Date": "8/4/20",
             "Baden-Württemberg": "3.7",
             "Bayern": "4.8",
             "Berlin": "8.5",
@@ -1821,7 +1821,7 @@
             "Gesamt": "5.6"
         },
         {
-            "undefined": "8/5/20",
+            "Date": "8/5/20",
             "Baden-Württemberg": "3.6",
             "Bayern": "4.8",
             "Berlin": "7.7",
@@ -1841,7 +1841,7 @@
             "Gesamt": "5.6"
         },
         {
-            "undefined": "8/6/20",
+            "Date": "8/6/20",
             "Baden-Württemberg": "3.3",
             "Bayern": "5.5",
             "Berlin": "8.3",
@@ -1861,7 +1861,7 @@
             "Gesamt": "5.8"
         },
         {
-            "undefined": "8/7/20",
+            "Date": "8/7/20",
             "Baden-Württemberg": "3.1",
             "Bayern": "5.7",
             "Berlin": "8.4",
@@ -1881,7 +1881,7 @@
             "Gesamt": "6.1"
         },
         {
-            "undefined": "8/8/20",
+            "Date": "8/8/20",
             "Baden-Württemberg": "3.1",
             "Bayern": "5.3",
             "Berlin": "9.0",
@@ -1901,7 +1901,7 @@
             "Gesamt": "6.4"
         },
         {
-            "undefined": "8/9/20",
+            "Date": "8/9/20",
             "Baden-Württemberg": "2.9",
             "Bayern": "4.8",
             "Berlin": "9.4",
@@ -1921,7 +1921,7 @@
             "Gesamt": "6.3"
         },
         {
-            "undefined": "8/10/20",
+            "Date": "8/10/20",
             "Baden-Württemberg": "3.0",
             "Bayern": "4.6",
             "Berlin": "9.6",
@@ -1941,7 +1941,7 @@
             "Gesamt": "6.5"
         },
         {
-            "undefined": "8/11/20",
+            "Date": "8/11/20",
             "Baden-Württemberg": "3.4",
             "Bayern": "4.4",
             "Berlin": "9.5",
@@ -1961,7 +1961,7 @@
             "Gesamt": "6.7"
         },
         {
-            "undefined": "8/12/20",
+            "Date": "8/12/20",
             "Baden-Württemberg": "3.5",
             "Bayern": "4.9",
             "Berlin": "10.9",
@@ -1981,7 +1981,7 @@
             "Gesamt": "7.0"
         },
         {
-            "undefined": "8/13/20",
+            "Date": "8/13/20",
             "Baden-Württemberg": "4.4",
             "Bayern": "6.0",
             "Berlin": "12.5",
@@ -2001,7 +2001,7 @@
             "Gesamt": "7.4"
         },
         {
-            "undefined": "8/14/20",
+            "Date": "8/14/20",
             "Baden-Württemberg": "4.7",
             "Bayern": "6.6",
             "Berlin": "10.2",
@@ -2021,7 +2021,7 @@
             "Gesamt": "7.8"
         },
         {
-            "undefined": "8/15/20",
+            "Date": "8/15/20",
             "Baden-Württemberg": "5.4",
             "Bayern": "7.5",
             "Berlin": "13.3",
@@ -2041,7 +2041,7 @@
             "Gesamt": "8.3"
         },
         {
-            "undefined": "8/16/20",
+            "Date": "8/16/20",
             "Baden-Württemberg": "5.4",
             "Bayern": "7.5",
             "Berlin": "13.9",
@@ -2061,7 +2061,7 @@
             "Gesamt": "8.2"
         },
         {
-            "undefined": "8/17/20",
+            "Date": "8/17/20",
             "Baden-Württemberg": "5.5",
             "Bayern": "8.0",
             "Berlin": "14.2",
@@ -2081,7 +2081,7 @@
             "Gesamt": "8.5"
         },
         {
-            "undefined": "8/18/20",
+            "Date": "8/18/20",
             "Baden-Württemberg": "6.8",
             "Bayern": "9.0",
             "Berlin": "13.4",
@@ -2101,7 +2101,7 @@
             "Gesamt": "8.9"
         },
         {
-            "undefined": "8/19/20",
+            "Date": "8/19/20",
             "Baden-Württemberg": "7.7",
             "Bayern": "10.8",
             "Berlin": "12.7",
@@ -2121,7 +2121,7 @@
             "Gesamt": "9.3"
         },
         {
-            "undefined": "8/20/20",
+            "Date": "8/20/20",
             "Baden-Württemberg": "8.7",
             "Bayern": "12.2",
             "Berlin": "10.7",
@@ -2141,7 +2141,7 @@
             "Gesamt": "9.5"
         },
         {
-            "undefined": "8/21/20",
+            "Date": "8/21/20",
             "Baden-Württemberg": "9.7",
             "Bayern": "12.8",
             "Berlin": "10.4",
@@ -2161,7 +2161,7 @@
             "Gesamt": "9.4"
         },
         {
-            "undefined": "8/22/20",
+            "Date": "8/22/20",
             "Baden-Württemberg": "11.4",
             "Bayern": "14.3",
             "Berlin": "11.2",
@@ -2181,7 +2181,7 @@
             "Gesamt": "10.2"
         },
         {
-            "undefined": "8/23/20",
+            "Date": "8/23/20",
             "Baden-Württemberg": "12.4",
             "Bayern": "13.9",
             "Berlin": "12.0",
@@ -2201,7 +2201,7 @@
             "Gesamt": "10.3"
         },
         {
-            "undefined": "8/24/20",
+            "Date": "8/24/20",
             "Baden-Württemberg": "13.4",
             "Bayern": "14.2",
             "Berlin": "12.2",
@@ -2221,7 +2221,7 @@
             "Gesamt": "10.5"
         },
         {
-            "undefined": "8/25/20",
+            "Date": "8/25/20",
             "Baden-Württemberg": "13.1",
             "Bayern": "14.0",
             "Berlin": "11.1",
@@ -2241,7 +2241,7 @@
             "Gesamt": "10.2"
         },
         {
-            "undefined": "8/26/20",
+            "Date": "8/26/20",
             "Baden-Württemberg": "13.6",
             "Bayern": "14.4",
             "Berlin": "10.9",
@@ -2261,7 +2261,7 @@
             "Gesamt": "10.2"
         },
         {
-            "undefined": "8/27/20",
+            "Date": "8/27/20",
             "Baden-Württemberg": "13.5",
             "Bayern": "14.6",
             "Berlin": "11.1",
@@ -2281,7 +2281,7 @@
             "Gesamt": "9.9"
         },
         {
-            "undefined": "8/28/20",
+            "Date": "8/28/20",
             "Baden-Württemberg": "13.7",
             "Bayern": "15.0",
             "Berlin": "10.3",
@@ -2301,7 +2301,7 @@
             "Gesamt": "9.9"
         },
         {
-            "undefined": "8/29/20",
+            "Date": "8/29/20",
             "Baden-Württemberg": "14.0",
             "Bayern": "15.2",
             "Berlin": "11.2",
@@ -2321,7 +2321,7 @@
             "Gesamt": "9.7"
         },
         {
-            "undefined": "8/30/20",
+            "Date": "8/30/20",
             "Baden-Württemberg": "14.2",
             "Bayern": "14.4",
             "Berlin": "11.9",
@@ -2341,7 +2341,7 @@
             "Gesamt": "9.5"
         },
         {
-            "undefined": "8/31/20",
+            "Date": "8/31/20",
             "Baden-Württemberg": "14.4",
             "Bayern": "14.8",
             "Berlin": "12.0",
@@ -2361,7 +2361,7 @@
             "Gesamt": "9.6"
         },
         {
-            "undefined": "9/1/20",
+            "Date": "9/1/20",
             "Baden-Württemberg": "13.9",
             "Bayern": "14.1",
             "Berlin": "11.6",
@@ -2381,7 +2381,7 @@
             "Gesamt": "9.3"
         },
         {
-            "undefined": "9/2/20",
+            "Date": "9/2/20",
             "Baden-Württemberg": "13.3",
             "Bayern": "13.9",
             "Berlin": "12.0",
@@ -2401,7 +2401,7 @@
             "Gesamt": "9.1"
         },
         {
-            "undefined": "9/3/20",
+            "Date": "9/3/20",
             "Baden-Württemberg": "12.9",
             "Bayern": "12.4",
             "Berlin": "11.6",
@@ -2421,7 +2421,7 @@
             "Gesamt": "8.7"
         },
         {
-            "undefined": "9/4/20",
+            "Date": "9/4/20",
             "Baden-Württemberg": "12.7",
             "Bayern": "11.7",
             "Berlin": "12.2",
@@ -2441,7 +2441,7 @@
             "Gesamt": "8.6"
         },
         {
-            "undefined": "9/5/20",
+            "Date": "9/5/20",
             "Baden-Württemberg": "13.1",
             "Bayern": "12.0",
             "Berlin": "12.0",
@@ -2461,7 +2461,7 @@
             "Gesamt": "8.7"
         },
         {
-            "undefined": "9/6/20",
+            "Date": "9/6/20",
             "Baden-Württemberg": "13.0",
             "Bayern": "13.1",
             "Berlin": "13.2",
@@ -2481,7 +2481,7 @@
             "Gesamt": "8.8"
         },
         {
-            "undefined": "9/7/20",
+            "Date": "9/7/20",
             "Baden-Württemberg": "13.2",
             "Bayern": "14.5",
             "Berlin": "13.7",
@@ -2501,7 +2501,7 @@
             "Gesamt": "9.2"
         },
         {
-            "undefined": "9/8/20",
+            "Date": "9/8/20",
             "Baden-Württemberg": "14.0",
             "Bayern": "16.3",
             "Berlin": "12.1",
@@ -2521,7 +2521,7 @@
             "Gesamt": "9.6"
         },
         {
-            "undefined": "9/9/20",
+            "Date": "9/9/20",
             "Baden-Württemberg": "13.8",
             "Bayern": "16.2",
             "Berlin": "12.6",
@@ -2541,7 +2541,7 @@
             "Gesamt": "9.4"
         },
         {
-            "undefined": "9/10/20",
+            "Date": "9/10/20",
             "Baden-Württemberg": "13.6",
             "Bayern": "18.3",
             "Berlin": "12.2",
@@ -2561,7 +2561,7 @@
             "Gesamt": "9.9"
         },
         {
-            "undefined": "9/11/20",
+            "Date": "9/11/20",
             "Baden-Württemberg": "13.0",
             "Bayern": "18.3",
             "Berlin": "13.9",
@@ -2581,7 +2581,7 @@
             "Gesamt": "9.9"
         },
         {
-            "undefined": "9/12/20",
+            "Date": "9/12/20",
             "Baden-Württemberg": "13.0",
             "Bayern": "18.5",
             "Berlin": "14.1",
@@ -2601,7 +2601,7 @@
             "Gesamt": "10.1"
         },
         {
-            "undefined": "9/13/20",
+            "Date": "9/13/20",
             "Baden-Württemberg": "12.1",
             "Bayern": "17.2",
             "Berlin": "13.9",
@@ -2621,7 +2621,7 @@
             "Gesamt": "9.9"
         },
         {
-            "undefined": "9/14/20",
+            "Date": "9/14/20",
             "Baden-Württemberg": "12.9",
             "Bayern": "17.8",
             "Berlin": "14.2",
@@ -2641,7 +2641,7 @@
             "Gesamt": "10.3"
         },
         {
-            "undefined": "9/15/20",
+            "Date": "9/15/20",
             "Baden-Württemberg": "11.5",
             "Bayern": "17.8",
             "Berlin": "13.0",
@@ -2661,7 +2661,7 @@
             "Gesamt": "10.4"
         },
         {
-            "undefined": "9/16/20",
+            "Date": "9/16/20",
             "Baden-Württemberg": "13.2",
             "Bayern": "17.4",
             "Berlin": "14.4",
@@ -2681,7 +2681,7 @@
             "Gesamt": "11.0"
         },
         {
-            "undefined": "9/17/20",
+            "Date": "9/17/20",
             "Baden-Württemberg": "13.2",
             "Bayern": "19.6",
             "Berlin": "14.8",
@@ -2701,7 +2701,7 @@
             "Gesamt": "11.5"
         },
         {
-            "undefined": "9/18/20",
+            "Date": "9/18/20",
             "Baden-Württemberg": "14.1",
             "Bayern": "18.8",
             "Berlin": "14.9",
@@ -2721,7 +2721,7 @@
             "Gesamt": "12.0"
         },
         {
-            "undefined": "9/19/20",
+            "Date": "9/19/20",
             "Baden-Württemberg": "14.9",
             "Bayern": "19.7",
             "Berlin": "17.6",
@@ -2741,7 +2741,7 @@
             "Gesamt": "12.8"
         },
         {
-            "undefined": "9/20/20",
+            "Date": "9/20/20",
             "Baden-Württemberg": "14.3",
             "Bayern": "19.5",
             "Berlin": "20.4",
@@ -2761,7 +2761,7 @@
             "Gesamt": "12.9"
         },
         {
-            "undefined": "9/21/20",
+            "Date": "9/21/20",
             "Baden-Württemberg": "14.8",
             "Bayern": "20.1",
             "Berlin": "21.4",
@@ -2781,7 +2781,7 @@
             "Gesamt": "13.1"
         },
         {
-            "undefined": "9/22/20",
+            "Date": "9/22/20",
             "Baden-Württemberg": "15.3",
             "Bayern": "20.2",
             "Berlin": "22.8",
@@ -2801,7 +2801,7 @@
             "Gesamt": "13.5"
         },
         {
-            "undefined": "9/23/20",
+            "Date": "9/23/20",
             "Baden-Württemberg": "14.1",
             "Bayern": "19.1",
             "Berlin": "22.9",
@@ -2821,7 +2821,7 @@
             "Gesamt": "13.2"
         },
         {
-            "undefined": "9/24/20",
+            "Date": "9/24/20",
             "Baden-Württemberg": "13.6",
             "Bayern": "18.6",
             "Berlin": "23.5",
@@ -2841,7 +2841,7 @@
             "Gesamt": "13.2"
         },
         {
-            "undefined": "9/25/20",
+            "Date": "9/25/20",
             "Baden-Württemberg": "12.5",
             "Bayern": "17.5",
             "Berlin": "25.2",
@@ -2861,7 +2861,7 @@
             "Gesamt": "13.0"
         },
         {
-            "undefined": "9/26/20",
+            "Date": "9/26/20",
             "Baden-Württemberg": "12.7",
             "Bayern": "17.3",
             "Berlin": "24.4",
@@ -2881,7 +2881,7 @@
             "Gesamt": "13.4"
         },
         {
-            "undefined": "9/27/20",
+            "Date": "9/27/20",
             "Baden-Württemberg": "10.9",
             "Bayern": "16.8",
             "Berlin": "26.7",
@@ -2901,7 +2901,7 @@
             "Gesamt": "13.4"
         },
         {
-            "undefined": "9/28/20",
+            "Date": "9/28/20",
             "Baden-Württemberg": "13.7",
             "Bayern": "16.3",
             "Berlin": "28.1",
@@ -2921,7 +2921,7 @@
             "Gesamt": "14.0"
         },
         {
-            "undefined": "9/29/20",
+            "Date": "9/29/20",
             "Baden-Württemberg": "14.8",
             "Bayern": "16.4",
             "Berlin": "26.4",
@@ -2941,7 +2941,7 @@
             "Gesamt": "14.5"
         },
         {
-            "undefined": "9/30/20",
+            "Date": "9/30/20",
             "Baden-Württemberg": "14.6",
             "Bayern": "15.5",
             "Berlin": "26.5",
@@ -2961,7 +2961,7 @@
             "Gesamt": "14.5"
         },
         {
-            "undefined": "10/1/20",
+            "Date": "10/1/20",
             "Baden-Württemberg": "14.2",
             "Bayern": "16.0",
             "Berlin": "29.4",
@@ -2981,7 +2981,7 @@
             "Gesamt": "14.9"
         },
         {
-            "undefined": "10/2/20",
+            "Date": "10/2/20",
             "Baden-Württemberg": "15.1",
             "Bayern": "15.8",
             "Berlin": "29.9",
@@ -3001,7 +3001,7 @@
             "Gesamt": "15.3"
         },
         {
-            "undefined": "10/3/20",
+            "Date": "10/3/20",
             "Baden-Württemberg": "13.4",
             "Bayern": "15.6",
             "Berlin": "33.4",
@@ -3021,7 +3021,7 @@
             "Gesamt": "15.6"
         },
         {
-            "undefined": "10/4/20",
+            "Date": "10/4/20",
             "Baden-Württemberg": "15.6",
             "Bayern": "16.1",
             "Berlin": "36.7",
@@ -3041,7 +3041,7 @@
             "Gesamt": "16.2"
         },
         {
-            "undefined": "10/5/20",
+            "Date": "10/5/20",
             "Baden-Württemberg": "15.9",
             "Bayern": "16.3",
             "Berlin": "37.9",
@@ -3061,7 +3061,7 @@
             "Gesamt": "16.8"
         },
         {
-            "undefined": "10/6/20",
+            "Date": "10/6/20",
             "Baden-Württemberg": "16.4",
             "Bayern": "16.0",
             "Berlin": "40.5",
@@ -3081,7 +3081,7 @@
             "Gesamt": "17.8"
         },
         {
-            "undefined": "10/7/20",
+            "Date": "10/7/20",
             "Baden-Württemberg": "17.7",
             "Bayern": "16.3",
             "Berlin": "42.4",
@@ -3101,7 +3101,7 @@
             "Gesamt": "18.6"
         },
         {
-            "undefined": "10/8/20",
+            "Date": "10/8/20",
             "Baden-Württemberg": "20.6",
             "Bayern": "18.1",
             "Berlin": "46.0",
@@ -3121,7 +3121,7 @@
             "Gesamt": "20.2"
         },
         {
-            "undefined": "10/9/20",
+            "Date": "10/9/20",
             "Baden-Württemberg": "22.5",
             "Bayern": "21.0",
             "Berlin": "51.0",
@@ -3141,7 +3141,7 @@
             "Gesamt": "22.2"
         },
         {
-            "undefined": "10/10/20",
+            "Date": "10/10/20",
             "Baden-Württemberg": "23.6",
             "Bayern": "23.1",
             "Berlin": "53.6",
@@ -3161,7 +3161,7 @@
             "Gesamt": "24.3"
         },
         {
-            "undefined": "10/11/20",
+            "Date": "10/11/20",
             "Baden-Württemberg": "25.8",
             "Bayern": "24.1",
             "Berlin": "58.4",
@@ -3181,7 +3181,7 @@
             "Gesamt": "25.9"
         },
         {
-            "undefined": "10/12/20",
+            "Date": "10/12/20",
             "Baden-Württemberg": "28.7",
             "Bayern": "25.6",
             "Berlin": "62.1",
@@ -3201,7 +3201,7 @@
             "Gesamt": "27.5"
         },
         {
-            "undefined": "10/13/20",
+            "Date": "10/13/20",
             "Baden-Württemberg": "31.6",
             "Bayern": "27.4",
             "Berlin": "60.5",
@@ -3221,7 +3221,7 @@
             "Gesamt": "29.6"
         },
         {
-            "undefined": "10/14/20",
+            "Date": "10/14/20",
             "Baden-Württemberg": "32.4",
             "Bayern": "28.8",
             "Berlin": "71.0",
@@ -3241,7 +3241,7 @@
             "Gesamt": "31.5"
         },
         {
-            "undefined": "10/15/20",
+            "Date": "10/15/20",
             "Baden-Württemberg": "34.6",
             "Bayern": "31.9",
             "Berlin": "71.2",
@@ -3261,7 +3261,7 @@
             "Gesamt": "34.1"
         },
         {
-            "undefined": "10/16/20",
+            "Date": "10/16/20",
             "Baden-Württemberg": "38.1",
             "Bayern": "35.4",
             "Berlin": "73.9",
@@ -3281,7 +3281,7 @@
             "Gesamt": "37.2"
         },
         {
-            "undefined": "10/17/20",
+            "Date": "10/17/20",
             "Baden-Württemberg": "42.2",
             "Bayern": "39.1",
             "Berlin": "78.5",
@@ -3301,7 +3301,7 @@
             "Gesamt": "40.6"
         },
         {
-            "undefined": "10/18/20",
+            "Date": "10/18/20",
             "Baden-Württemberg": "42.7",
             "Bayern": "43.8",
             "Berlin": "83.8",
@@ -3321,7 +3321,7 @@
             "Gesamt": "42.9"
         },
         {
-            "undefined": "10/19/20",
+            "Date": "10/19/20",
             "Baden-Württemberg": "46.3",
             "Bayern": "47.4",
             "Berlin": "87.9",
@@ -3341,7 +3341,7 @@
             "Gesamt": "45.4"
         },
         {
-            "undefined": "10/20/20",
+            "Date": "10/20/20",
             "Baden-Württemberg": "47.5",
             "Bayern": "50.9",
             "Berlin": "84.5",
@@ -3361,7 +3361,7 @@
             "Gesamt": "48.6"
         },
         {
-            "undefined": "10/21/20",
+            "Date": "10/21/20",
             "Baden-Württemberg": "48.8",
             "Bayern": "55.0",
             "Berlin": "92.6",
@@ -3381,7 +3381,7 @@
             "Gesamt": "51.3"
         },
         {
-            "undefined": "10/22/20",
+            "Date": "10/22/20",
             "Baden-Württemberg": "53.5",
             "Bayern": "61.3",
             "Berlin": "103.1",
@@ -3401,7 +3401,7 @@
             "Gesamt": "56.2"
         },
         {
-            "undefined": "10/23/20",
+            "Date": "10/23/20",
             "Baden-Württemberg": "61.3",
             "Bayern": "66.7",
             "Berlin": "105.8",
@@ -3421,7 +3421,7 @@
             "Gesamt": "60.3"
         },
         {
-            "undefined": "10/24/20",
+            "Date": "10/24/20",
             "Baden-Württemberg": "67.5",
             "Bayern": "74.4",
             "Berlin": "112.8",
@@ -3441,7 +3441,7 @@
             "Gesamt": "68.4"
         },
         {
-            "undefined": "10/25/20",
+            "Date": "10/25/20",
             "Baden-Württemberg": "75.2",
             "Bayern": "79.6",
             "Berlin": "119.6",
@@ -3461,7 +3461,7 @@
             "Gesamt": "74.9"
         },
         {
-            "undefined": "10/26/20",
+            "Date": "10/26/20",
             "Baden-Württemberg": "80.5",
             "Bayern": "87.2",
             "Berlin": "122.6",
@@ -3481,7 +3481,7 @@
             "Gesamt": "80.9"
         },
         {
-            "undefined": "10/27/20",
+            "Date": "10/27/20",
             "Baden-Württemberg": "84.5",
             "Bayern": "92.2",
             "Berlin": "126.7",
@@ -3501,7 +3501,7 @@
             "Gesamt": "87.0"
         },
         {
-            "undefined": "10/28/20",
+            "Date": "10/28/20",
             "Baden-Württemberg": "91.1",
             "Bayern": "104.8",
             "Berlin": "130.5",
@@ -3521,7 +3521,7 @@
             "Gesamt": "93.6"
         },
         {
-            "undefined": "10/29/20",
+            "Date": "10/29/20",
             "Baden-Württemberg": "95.9",
             "Bayern": "107.8",
             "Berlin": "139.8",
@@ -3541,7 +3541,7 @@
             "Gesamt": "99.0"
         },
         {
-            "undefined": "10/30/20",
+            "Date": "10/30/20",
             "Baden-Württemberg": "99.1",
             "Bayern": "114.1",
             "Berlin": "146.1",
@@ -3561,7 +3561,7 @@
             "Gesamt": "104.9"
         },
         {
-            "undefined": "10/31/20",
+            "Date": "10/31/20",
             "Baden-Württemberg": "106.6",
             "Bayern": "118.5",
             "Berlin": "150.2",
@@ -3581,7 +3581,7 @@
             "Gesamt": "110.9"
         },
         {
-            "undefined": "11/1/20",
+            "Date": "11/1/20",
             "Baden-Württemberg": "113.4",
             "Bayern": "123.2",
             "Berlin": "164.2",
@@ -3601,7 +3601,7 @@
             "Gesamt": "114.6"
         },
         {
-            "undefined": "11/2/20",
+            "Date": "11/2/20",
             "Baden-Württemberg": "116.3",
             "Bayern": "130.1",
             "Berlin": "164.6",
@@ -3621,7 +3621,7 @@
             "Gesamt": "120.1"
         },
         {
-            "undefined": "11/3/20",
+            "Date": "11/3/20",
             "Baden-Württemberg": "116.8",
             "Bayern": "135.3",
             "Berlin": "156.3",
@@ -3641,7 +3641,7 @@
             "Gesamt": "124.2"
         },
         {
-            "undefined": "11/4/20",
+            "Date": "11/4/20",
             "Baden-Württemberg": "117.8",
             "Bayern": "141.7",
             "Berlin": "166.3",
@@ -3661,7 +3661,7 @@
             "Gesamt": "125.8"
         },
         {
-            "undefined": "11/5/20",
+            "Date": "11/5/20",
             "Baden-Württemberg": "121.5",
             "Bayern": "145.7",
             "Berlin": "162.4",
@@ -3681,7 +3681,7 @@
             "Gesamt": "126.8"
         },
         {
-            "undefined": "11/6/20",
+            "Date": "11/6/20",
             "Baden-Württemberg": "122.4",
             "Bayern": "151.2",
             "Berlin": "171.9",
@@ -3701,7 +3701,7 @@
             "Gesamt": "128.7"
         },
         {
-            "undefined": "11/7/20",
+            "Date": "11/7/20",
             "Baden-Württemberg": "128.1",
             "Bayern": "160.4",
             "Berlin": "179.0",
@@ -3721,7 +3721,7 @@
             "Gesamt": "133.3"
         },
         {
-            "undefined": "11/8/20",
+            "Date": "11/8/20",
             "Baden-Württemberg": "135.1",
             "Bayern": "163.4",
             "Berlin": "188.4",
@@ -3741,7 +3741,7 @@
             "Gesamt": "135.6"
         },
         {
-            "undefined": "11/9/20",
+            "Date": "11/9/20",
             "Baden-Württemberg": "139.1",
             "Bayern": "171.6",
             "Berlin": "185.1",
@@ -3761,7 +3761,7 @@
             "Gesamt": "139.0"
         },
         {
-            "undefined": "11/10/20",
+            "Date": "11/10/20",
             "Baden-Württemberg": "135.8",
             "Bayern": "171.7",
             "Berlin": "169.5",
@@ -3781,7 +3781,7 @@
             "Gesamt": "139.1"
         },
         {
-            "undefined": "11/11/20",
+            "Date": "11/11/20",
             "Baden-Württemberg": "132.6",
             "Bayern": "170.7",
             "Berlin": "175.8",
@@ -3801,7 +3801,7 @@
             "Gesamt": "138.1"
         },
         {
-            "undefined": "11/12/20",
+            "Date": "11/12/20",
             "Baden-Württemberg": "134.5",
             "Bayern": "178.9",
             "Berlin": "172.8",
@@ -3821,7 +3821,7 @@
             "Gesamt": "138.9"
         },
         {
-            "undefined": "11/13/20",
+            "Date": "11/13/20",
             "Baden-Württemberg": "134.3",
             "Bayern": "180.7",
             "Berlin": "190.8",
@@ -3841,7 +3841,7 @@
             "Gesamt": "140.4"
         },
         {
-            "undefined": "11/14/20",
+            "Date": "11/14/20",
             "Baden-Württemberg": "134.8",
             "Bayern": "178.8",
             "Berlin": "195.1",
@@ -3861,7 +3861,7 @@
             "Gesamt": "141.3"
         },
         {
-            "undefined": "11/15/20",
+            "Date": "11/15/20",
             "Baden-Württemberg": "132.4",
             "Bayern": "180.0",
             "Berlin": "206.7",
@@ -3881,7 +3881,7 @@
             "Gesamt": "142.5"
         },
         {
-            "undefined": "11/16/20",
+            "Date": "11/16/20",
             "Baden-Württemberg": "133.8",
             "Bayern": "182.0",
             "Berlin": "210.4",
@@ -3901,7 +3901,7 @@
             "Gesamt": "143.3"
         },
         {
-            "undefined": "11/17/20",
+            "Date": "11/17/20",
             "Baden-Württemberg": "133.2",
             "Bayern": "173.3",
             "Berlin": "206.4",
@@ -3921,7 +3921,7 @@
             "Gesamt": "141.4"
         },
         {
-            "undefined": "11/18/20",
+            "Date": "11/18/20",
             "Baden-Württemberg": "131.7",
             "Bayern": "171.0",
             "Berlin": "214.1",
@@ -3941,7 +3941,7 @@
             "Gesamt": "138.9"
         },
         {
-            "undefined": "11/19/20",
+            "Date": "11/19/20",
             "Baden-Württemberg": "132.1",
             "Bayern": "167.1",
             "Berlin": "208.4",
@@ -3961,7 +3961,7 @@
             "Gesamt": "138.9"
         },
         {
-            "undefined": "11/20/20",
+            "Date": "11/20/20",
             "Baden-Württemberg": "133.6",
             "Bayern": "168.4",
             "Berlin": "199.9",
@@ -3981,7 +3981,7 @@
             "Gesamt": "139.0"
         },
         {
-            "undefined": "11/21/20",
+            "Date": "11/21/20",
             "Baden-Württemberg": "134.4",
             "Bayern": "169.8",
             "Berlin": "208.0",
@@ -4001,7 +4001,7 @@
             "Gesamt": "140.8"
         },
         {
-            "undefined": "11/22/20",
+            "Date": "11/22/20",
             "Baden-Württemberg": "135.1",
             "Bayern": "171.7",
             "Berlin": "224.1",
@@ -4021,7 +4021,7 @@
             "Gesamt": "140.7"
         },
         {
-            "undefined": "11/23/20",
+            "Date": "11/23/20",
             "Baden-Württemberg": "139.4",
             "Bayern": "176.3",
             "Berlin": "219.8",
@@ -4041,7 +4041,7 @@
             "Gesamt": "143.1"
         },
         {
-            "undefined": "11/24/20",
+            "Date": "11/24/20",
             "Baden-Württemberg": "126.8",
             "Bayern": "178.0",
             "Berlin": "197.8",
@@ -4061,7 +4061,7 @@
             "Gesamt": "141.8"
         },
         {
-            "undefined": "11/25/20",
+            "Date": "11/25/20",
             "Baden-Württemberg": "131.6",
             "Bayern": "173.5",
             "Berlin": "195.3",
@@ -4081,7 +4081,7 @@
             "Gesamt": "139.6"
         },
         {
-            "undefined": "11/26/20",
+            "Date": "11/26/20",
             "Baden-Württemberg": "128.7",
             "Bayern": "173.0",
             "Berlin": "201.6",
@@ -4101,7 +4101,7 @@
             "Gesamt": "137.8"
         },
         {
-            "undefined": "11/27/20",
+            "Date": "11/27/20",
             "Baden-Württemberg": "129.2",
             "Bayern": "171.5",
             "Berlin": "192.6",
@@ -4121,7 +4121,7 @@
             "Gesamt": "136.5"
         },
         {
-            "undefined": "11/28/20",
+            "Date": "11/28/20",
             "Baden-Württemberg": "128.4",
             "Bayern": "170.7",
             "Berlin": "190.4",
@@ -4141,7 +4141,7 @@
             "Gesamt": "135.9"
         },
         {
-            "undefined": "11/29/20",
+            "Date": "11/29/20",
             "Baden-Württemberg": "129.4",
             "Bayern": "174.2",
             "Berlin": "177.8",
@@ -4161,7 +4161,7 @@
             "Gesamt": "135.5"
         },
         {
-            "undefined": "11/30/20",
+            "Date": "11/30/20",
             "Baden-Württemberg": "132.6",
             "Bayern": "175.1",
             "Berlin": "199.0",
@@ -4181,7 +4181,7 @@
             "Gesamt": "138.4"
         },
         {
-            "undefined": "12/1/20",
+            "Date": "12/1/20",
             "Baden-Württemberg": "134.0",
             "Bayern": "171.4",
             "Berlin": "180.1",
@@ -4201,7 +4201,7 @@
             "Gesamt": "136.6"
         },
         {
-            "undefined": "12/2/20",
+            "Date": "12/2/20",
             "Baden-Württemberg": "131.9",
             "Bayern": "170.1",
             "Berlin": "171.0",
@@ -4221,7 +4221,7 @@
             "Gesamt": "134.0"
         },
         {
-            "undefined": "12/3/20",
+            "Date": "12/3/20",
             "Baden-Württemberg": "134.0",
             "Bayern": "172.3",
             "Berlin": "162.8",
@@ -4241,7 +4241,7 @@
             "Gesamt": "134.0"
         },
         {
-            "undefined": "12/4/20",
+            "Date": "12/4/20",
             "Baden-Württemberg": "133.7",
             "Bayern": "171.0",
             "Berlin": "160.4",
@@ -4261,7 +4261,7 @@
             "Gesamt": "134.7"
         },
         {
-            "undefined": "12/5/20",
+            "Date": "12/5/20",
             "Baden-Württemberg": "139.6",
             "Bayern": "172.0",
             "Berlin": "159.2",
@@ -4281,7 +4281,7 @@
             "Gesamt": "138.4"
         },
         {
-            "undefined": "12/6/20",
+            "Date": "12/6/20",
             "Baden-Württemberg": "144.2",
             "Bayern": "175.0",
             "Berlin": "181.9",
@@ -4301,7 +4301,7 @@
             "Gesamt": "141.7"
         },
         {
-            "undefined": "12/7/20",
+            "Date": "12/7/20",
             "Baden-Württemberg": "150.0",
             "Bayern": "176.3",
             "Berlin": "184.2",
@@ -4321,7 +4321,7 @@
             "Gesamt": "145.9"
         },
         {
-            "undefined": "12/8/20",
+            "Date": "12/8/20",
             "Baden-Württemberg": "152.1",
             "Bayern": "177.4",
             "Berlin": "169.4",
@@ -4341,7 +4341,7 @@
             "Gesamt": "146.9"
         },
         {
-            "undefined": "12/9/20",
+            "Date": "12/9/20",
             "Baden-Württemberg": "153.4",
             "Bayern": "178.9",
             "Berlin": "176.3",
@@ -4361,7 +4361,7 @@
             "Gesamt": "148.8"
         },
         {
-            "undefined": "12/10/20",
+            "Date": "12/10/20",
             "Baden-Württemberg": "160.3",
             "Bayern": "185.9",
             "Berlin": "175.7",
@@ -4381,7 +4381,7 @@
             "Gesamt": "149.4"
         },
         {
-            "undefined": "12/11/20",
+            "Date": "12/11/20",
             "Baden-Württemberg": "168.9",
             "Bayern": "188.2",
             "Berlin": "182.8",
@@ -4401,7 +4401,7 @@
             "Gesamt": "156.0"
         },
         {
-            "undefined": "12/12/20",
+            "Date": "12/12/20",
             "Baden-Württemberg": "174.9",
             "Bayern": "192.7",
             "Berlin": "170.1",
@@ -4421,7 +4421,7 @@
             "Gesamt": "163.5"
         },
         {
-            "undefined": "12/13/20",
+            "Date": "12/13/20",
             "Baden-Württemberg": "180.4",
             "Bayern": "200.2",
             "Berlin": "186.9",
@@ -4441,7 +4441,7 @@
             "Gesamt": "168.8"
         },
         {
-            "undefined": "12/14/20",
+            "Date": "12/14/20",
             "Baden-Württemberg": "187.3",
             "Bayern": "203.6",
             "Berlin": "193.0",
@@ -4461,7 +4461,7 @@
             "Gesamt": "176.1"
         },
         {
-            "undefined": "12/15/20",
+            "Date": "12/15/20",
             "Baden-Württemberg": "190.6",
             "Bayern": "192.6",
             "Berlin": "183.9",
@@ -4481,7 +4481,7 @@
             "Gesamt": "173.7"
         },
         {
-            "undefined": "12/16/20",
+            "Date": "12/16/20",
             "Baden-Württemberg": "191.7",
             "Bayern": "209.8",
             "Berlin": "181.6",
@@ -4501,7 +4501,7 @@
             "Gesamt": "179.8"
         },
         {
-            "undefined": "12/17/20",
+            "Date": "12/17/20",
             "Baden-Württemberg": "159.7",
             "Bayern": "210.5",
             "Berlin": "178.1",
@@ -4521,7 +4521,7 @@
             "Gesamt": "179.2"
         },
         {
-            "undefined": "12/18/20",
+            "Date": "12/18/20",
             "Baden-Württemberg": "193.7",
             "Bayern": "211.8",
             "Berlin": "178.9",
@@ -4541,7 +4541,7 @@
             "Gesamt": "184.8"
         },
         {
-            "undefined": "12/19/20",
+            "Date": "12/19/20",
             "Baden-Württemberg": "199.1",
             "Bayern": "213.9",
             "Berlin": "184.6",
@@ -4561,7 +4561,7 @@
             "Gesamt": "189.6"
         },
         {
-            "undefined": "12/20/20",
+            "Date": "12/20/20",
             "Baden-Württemberg": "204.1",
             "Bayern": "217.8",
             "Berlin": "207.6",
@@ -4581,7 +4581,7 @@
             "Gesamt": "192.2"
         },
         {
-            "undefined": "12/21/20",
+            "Date": "12/21/20",
             "Baden-Württemberg": "207.7",
             "Bayern": "216.8",
             "Berlin": "208.0",
@@ -4601,7 +4601,7 @@
             "Gesamt": "197.1"
         },
         {
-            "undefined": "12/22/20",
+            "Date": "12/22/20",
             "Baden-Württemberg": "207.8",
             "Bayern": "215.9",
             "Berlin": "197.8",
@@ -4621,7 +4621,7 @@
             "Gesamt": "197.6"
         },
         {
-            "undefined": "12/23/20",
+            "Date": "12/23/20",
             "Baden-Württemberg": "202.1",
             "Bayern": "207.5",
             "Berlin": "206.5",
@@ -4641,7 +4641,7 @@
             "Gesamt": "195.1"
         },
         {
-            "undefined": "12/24/20",
+            "Date": "12/24/20",
             "Baden-Württemberg": "204.5",
             "Bayern": "207.7",
             "Berlin": "207.1",
@@ -4661,7 +4661,7 @@
             "Gesamt": "196.2"
         },
         {
-            "undefined": "12/25/20",
+            "Date": "12/25/20",
             "Baden-Württemberg": "195.4",
             "Bayern": "195.8",
             "Berlin": "187.7",
@@ -4681,7 +4681,7 @@
             "Gesamt": "188.8"
         },
         {
-            "undefined": "12/26/20",
+            "Date": "12/26/20",
             "Baden-Württemberg": "175.3",
             "Bayern": "180.4",
             "Berlin": "153.6",
@@ -4701,7 +4701,7 @@
             "Gesamt": "170.7"
         },
         {
-            "undefined": "12/27/20",
+            "Date": "12/27/20",
             "Baden-Württemberg": "160.1",
             "Bayern": "171.0",
             "Berlin": "157.3",
@@ -4721,7 +4721,7 @@
             "Gesamt": "161.3"
         },
         {
-            "undefined": "12/28/20",
+            "Date": "12/28/20",
             "Baden-Württemberg": "152.7",
             "Bayern": "167.8",
             "Berlin": "169.9",
@@ -4741,7 +4741,7 @@
             "Gesamt": "157.8"
         },
         {
-            "undefined": "12/29/20",
+            "Date": "12/29/20",
             "Baden-Württemberg": "147.0",
             "Bayern": "161.5",
             "Berlin": "145.1",
@@ -4761,7 +4761,7 @@
             "Gesamt": "149.2"
         },
         {
-            "undefined": "12/30/20",
+            "Date": "12/30/20",
             "Baden-Württemberg": "141.4",
             "Bayern": "154.7",
             "Berlin": "140.2",
@@ -4781,7 +4781,7 @@
             "Gesamt": "141.3"
         },
         {
-            "undefined": "12/31/20",
+            "Date": "12/31/20",
             "Baden-Württemberg": "132.6",
             "Bayern": "163.3",
             "Berlin": "125.7",
@@ -4801,7 +4801,7 @@
             "Gesamt": "139.8"
         },
         {
-            "undefined": "1/1/21",
+            "Date": "1/1/21",
             "Baden-Württemberg": "129.4",
             "Bayern": "164.9",
             "Berlin": "126.9",
@@ -4821,7 +4821,7 @@
             "Gesamt": "141.9"
         },
         {
-            "undefined": "1/2/21",
+            "Date": "1/2/21",
             "Baden-Württemberg": "130.8",
             "Bayern": "160.8",
             "Berlin": "127.7",
@@ -4841,7 +4841,7 @@
             "Gesamt": "141.2"
         },
         {
-            "undefined": "1/3/21",
+            "Date": "1/3/21",
             "Baden-Württemberg": "128.5",
             "Bayern": "157.1",
             "Berlin": "121.1",
@@ -4861,7 +4861,7 @@
             "Gesamt": "139.6"
         },
         {
-            "undefined": "1/4/21",
+            "Date": "1/4/21",
             "Baden-Württemberg": "128.8",
             "Bayern": "158.9",
             "Berlin": "125.8",
@@ -4881,7 +4881,7 @@
             "Gesamt": "139.4"
         },
         {
-            "undefined": "1/5/21",
+            "Date": "1/5/21",
             "Baden-Württemberg": "124.6",
             "Bayern": "160.1",
             "Berlin": "116.1",
@@ -4901,7 +4901,7 @@
             "Gesamt": "134.7"
         },
         {
-            "undefined": "1/6/21",
+            "Date": "1/6/21",
             "Baden-Württemberg": "124.0",
             "Bayern": "138.9",
             "Berlin": "116.8",
@@ -4921,7 +4921,7 @@
             "Gesamt": "127.3"
         },
         {
-            "undefined": "1/7/21",
+            "Date": "1/7/21",
             "Baden-Württemberg": "101.2",
             "Bayern": "121.7",
             "Berlin": "122.4",
@@ -4941,7 +4941,7 @@
             "Gesamt": "121.8"
         },
         {
-            "undefined": "1/8/21",
+            "Date": "1/8/21",
             "Baden-Württemberg": "111.7",
             "Bayern": "136.5",
             "Berlin": "150.9",
@@ -4961,7 +4961,7 @@
             "Gesamt": "136.5"
         },
         {
-            "undefined": "1/9/21",
+            "Date": "1/9/21",
             "Baden-Württemberg": "124.6",
             "Bayern": "147.9",
             "Berlin": "183.4",
@@ -4981,7 +4981,7 @@
             "Gesamt": "153.9"
         },
         {
-            "undefined": "1/10/21",
+            "Date": "1/10/21",
             "Baden-Württemberg": "138.8",
             "Bayern": "156.0",
             "Berlin": "190.2",
@@ -5001,7 +5001,7 @@
             "Gesamt": "162.2"
         },
         {
-            "undefined": "1/11/21",
+            "Date": "1/11/21",
             "Baden-Württemberg": "142.4",
             "Bayern": "161.3",
             "Berlin": "186.6",
@@ -5021,7 +5021,7 @@
             "Gesamt": "166.6"
         },
         {
-            "undefined": "1/12/21",
+            "Date": "1/12/21",
             "Baden-Württemberg": "138.6",
             "Bayern": "158.8",
             "Berlin": "187.3",
@@ -5041,7 +5041,7 @@
             "Gesamt": "164.5"
         },
         {
-            "undefined": "1/13/21",
+            "Date": "1/13/21",
             "Baden-Württemberg": "129.7",
             "Bayern": "147.7",
             "Berlin": "183.6",
@@ -5061,7 +5061,7 @@
             "Gesamt": "155.0"
         },
         {
-            "undefined": "1/14/21",
+            "Date": "1/14/21",
             "Baden-Württemberg": "133.4",
             "Bayern": "159.6",
             "Berlin": "180.4",
@@ -5081,7 +5081,7 @@
             "Gesamt": "151.2"
         },
         {
-            "undefined": "1/15/21",
+            "Date": "1/15/21",
             "Baden-Württemberg": "131.1",
             "Bayern": "156.0",
             "Berlin": "166.3",
@@ -5101,7 +5101,7 @@
             "Gesamt": "146.1"
         },
         {
-            "undefined": "1/16/21",
+            "Date": "1/16/21",
             "Baden-Württemberg": "123.1",
             "Bayern": "148.2",
             "Berlin": "157.8",
@@ -5121,7 +5121,7 @@
             "Gesamt": "139.2"
         },
         {
-            "undefined": "1/17/21",
+            "Date": "1/17/21",
             "Baden-Württemberg": "111.0",
             "Bayern": "141.7",
             "Berlin": "160.4",
@@ -5141,7 +5141,7 @@
             "Gesamt": "136.0"
         },
         {
-            "undefined": "1/18/21",
+            "Date": "1/18/21",
             "Baden-Württemberg": "118.6",
             "Bayern": "130.4",
             "Berlin": "160.5",
@@ -5161,7 +5161,7 @@
             "Gesamt": "134.4"
         },
         {
-            "undefined": "1/19/21",
+            "Date": "1/19/21",
             "Baden-Württemberg": "112.4",
             "Bayern": "136.1",
             "Berlin": "137.8",
@@ -5181,7 +5181,7 @@
             "Gesamt": "131.5"
         },
         {
-            "undefined": "1/20/21",
+            "Date": "1/20/21",
             "Baden-Württemberg": "104.8",
             "Bayern": "128.2",
             "Berlin": "128.4",
@@ -5201,7 +5201,7 @@
             "Gesamt": "123.5"
         },
         {
-            "undefined": "1/21/21",
+            "Date": "1/21/21",
             "Baden-Württemberg": "98.9",
             "Bayern": "119.7",
             "Berlin": "115.7",
@@ -5221,7 +5221,7 @@
             "Gesamt": "119.0"
         },
         {
-            "undefined": "1/22/21",
+            "Date": "1/22/21",
             "Baden-Württemberg": "96.2",
             "Bayern": "114.9",
             "Berlin": "112.2",
@@ -5241,7 +5241,7 @@
             "Gesamt": "115.3"
         },
         {
-            "undefined": "1/23/21",
+            "Date": "1/23/21",
             "Baden-Württemberg": "91.5",
             "Bayern": "108.8",
             "Berlin": "104.9",
@@ -5261,7 +5261,7 @@
             "Gesamt": "112.6"
         },
         {
-            "undefined": "1/24/21",
+            "Date": "1/24/21",
             "Baden-Württemberg": "90.3",
             "Bayern": "108.6",
             "Berlin": "109.8",
@@ -5281,7 +5281,7 @@
             "Gesamt": "111.1"
         },
         {
-            "undefined": "1/25/21",
+            "Date": "1/25/21",
             "Baden-Württemberg": "90.0",
             "Bayern": "107.0",
             "Berlin": "109.8",
@@ -5301,7 +5301,7 @@
             "Gesamt": "111.2"
         },
         {
-            "undefined": "1/26/21",
+            "Date": "1/26/21",
             "Baden-Württemberg": "87.0",
             "Bayern": "104.0",
             "Berlin": "101.7",
@@ -5321,7 +5321,7 @@
             "Gesamt": "107.6"
         },
         {
-            "undefined": "1/27/21",
+            "Date": "1/27/21",
             "Baden-Württemberg": "81.8",
             "Bayern": "96.7",
             "Berlin": "90.3",
@@ -5341,7 +5341,7 @@
             "Gesamt": "100.9"
         },
         {
-            "undefined": "1/28/21",
+            "Date": "1/28/21",
             "Baden-Württemberg": "79.0",
             "Bayern": "97.0",
             "Berlin": "89.2",
@@ -5361,7 +5361,7 @@
             "Gesamt": "98.1"
         },
         {
-            "undefined": "1/29/21",
+            "Date": "1/29/21",
             "Baden-Württemberg": "75.8",
             "Bayern": "93.8",
             "Berlin": "84.6",
@@ -5381,7 +5381,7 @@
             "Gesamt": "94.4"
         },
         {
-            "undefined": "1/30/21",
+            "Date": "1/30/21",
             "Baden-Württemberg": "74.7",
             "Bayern": "91.1",
             "Berlin": "82.7",
@@ -5401,7 +5401,7 @@
             "Gesamt": "90.9"
         },
         {
-            "undefined": "1/31/21",
+            "Date": "1/31/21",
             "Baden-Württemberg": "74.2",
             "Bayern": "90.3",
             "Berlin": "84.2",
@@ -5421,7 +5421,7 @@
             "Gesamt": "90.2"
         },
         {
-            "undefined": "2/1/21",
+            "Date": "2/1/21",
             "Baden-Württemberg": "74.3",
             "Bayern": "92.0",
             "Berlin": "85.4",
@@ -5441,7 +5441,7 @@
             "Gesamt": "90.9"
         },
         {
-            "undefined": "2/2/21",
+            "Date": "2/2/21",
             "Baden-Württemberg": "74.6",
             "Bayern": "92.0",
             "Berlin": "80.9",
@@ -5461,7 +5461,7 @@
             "Gesamt": "90.0"
         },
         {
-            "undefined": "2/3/21",
+            "Date": "2/3/21",
             "Baden-Württemberg": "70.7",
             "Bayern": "83.4",
             "Berlin": "72.4",
@@ -5481,7 +5481,7 @@
             "Gesamt": "82.9"
         },
         {
-            "undefined": "2/4/21",
+            "Date": "2/4/21",
             "Baden-Württemberg": "67.2",
             "Bayern": "83.1",
             "Berlin": "72.0",
@@ -5501,7 +5501,7 @@
             "Gesamt": "80.7"
         },
         {
-            "undefined": "2/5/21",
+            "Date": "2/5/21",
             "Baden-Württemberg": "63.9",
             "Bayern": "81.6",
             "Berlin": "71.7",
@@ -5521,7 +5521,7 @@
             "Gesamt": "79.9"
         },
         {
-            "undefined": "2/6/21",
+            "Date": "2/6/21",
             "Baden-Württemberg": "61.9",
             "Bayern": "78.8",
             "Berlin": "67.6",
@@ -5541,7 +5541,7 @@
             "Gesamt": "77.3"
         },
         {
-            "undefined": "2/7/21",
+            "Date": "2/7/21",
             "Baden-Württemberg": "60.8",
             "Bayern": "76.2",
             "Berlin": "69.0",
@@ -5561,7 +5561,7 @@
             "Gesamt": "75.6"
         },
         {
-            "undefined": "2/8/21",
+            "Date": "2/8/21",
             "Baden-Württemberg": "60.8",
             "Bayern": "76.7",
             "Berlin": "71.4",
@@ -5581,7 +5581,7 @@
             "Gesamt": "76.0"
         },
         {
-            "undefined": "2/9/21",
+            "Date": "2/9/21",
             "Baden-Württemberg": "59.6",
             "Bayern": "74.7",
             "Berlin": "62.0",
@@ -5601,7 +5601,7 @@
             "Gesamt": "72.8"
         },
         {
-            "undefined": "2/10/21",
+            "Date": "2/10/21",
             "Baden-Württemberg": "57.6",
             "Bayern": "69.3",
             "Berlin": "56.2",
@@ -5621,7 +5621,7 @@
             "Gesamt": "68.0"
         },
         {
-            "undefined": "2/11/21",
+            "Date": "2/11/21",
             "Baden-Württemberg": "56.2",
             "Bayern": "63.6",
             "Berlin": "56.2",
@@ -5641,7 +5641,7 @@
             "Gesamt": "64.2"
         },
         {
-            "undefined": "2/12/21",
+            "Date": "2/12/21",
             "Baden-Württemberg": "53.4",
             "Bayern": "62.5",
             "Berlin": "57.7",
@@ -5661,7 +5661,7 @@
             "Gesamt": "62.2"
         },
         {
-            "undefined": "2/13/21",
+            "Date": "2/13/21",
             "Baden-Württemberg": "51.0",
             "Bayern": "60.3",
             "Berlin": "57.4",
@@ -5681,7 +5681,7 @@
             "Gesamt": "60.1"
         },
         {
-            "undefined": "2/14/21",
+            "Date": "2/14/21",
             "Baden-Württemberg": "48.5",
             "Bayern": "55.6",
             "Berlin": "57.2",
@@ -5701,7 +5701,7 @@
             "Gesamt": "57.4"
         },
         {
-            "undefined": "2/15/21",
+            "Date": "2/15/21",
             "Baden-Württemberg": "48.3",
             "Bayern": "57.1",
             "Berlin": "58.4",
@@ -5721,7 +5721,7 @@
             "Gesamt": "58.9"
         },
         {
-            "undefined": "2/16/21",
+            "Date": "2/16/21",
             "Baden-Württemberg": "46.7",
             "Bayern": "57.9",
             "Berlin": "52.3",
@@ -5741,7 +5741,7 @@
             "Gesamt": "58.7"
         },
         {
-            "undefined": "2/17/21",
+            "Date": "2/17/21",
             "Baden-Württemberg": "43.6",
             "Bayern": "54.5",
             "Berlin": "48.5",
@@ -5761,7 +5761,7 @@
             "Gesamt": "57.0"
         },
         {
-            "undefined": "2/18/21",
+            "Date": "2/18/21",
             "Baden-Württemberg": "41.5",
             "Bayern": "55.3",
             "Berlin": "47.9",
@@ -5781,7 +5781,7 @@
             "Gesamt": "57.1"
         },
         {
-            "undefined": "2/19/21",
+            "Date": "2/19/21",
             "Baden-Württemberg": "41.1",
             "Bayern": "54.7",
             "Berlin": "50.7",
@@ -5801,7 +5801,7 @@
             "Gesamt": "56.8"
         },
         {
-            "undefined": "2/20/21",
+            "Date": "2/20/21",
             "Baden-Württemberg": "41.9",
             "Bayern": "55.6",
             "Berlin": "52.2",
@@ -5821,7 +5821,7 @@
             "Gesamt": "57.8"
         },
         {
-            "undefined": "2/21/21",
+            "Date": "2/21/21",
             "Baden-Württemberg": "44.3",
             "Bayern": "58.0",
             "Berlin": "56.3",
@@ -5841,7 +5841,7 @@
             "Gesamt": "60.2"
         },
         {
-            "undefined": "2/22/21",
+            "Date": "2/22/21",
             "Baden-Württemberg": "44.1",
             "Bayern": "58.4",
             "Berlin": "57.3",
@@ -5861,7 +5861,7 @@
             "Gesamt": "61.0"
         },
         {
-            "undefined": "2/23/21",
+            "Date": "2/23/21",
             "Baden-Württemberg": "44.9",
             "Bayern": "57.8",
             "Berlin": "54.7",
@@ -5881,7 +5881,7 @@
             "Gesamt": "60.5"
         },
         {
-            "undefined": "2/24/21",
+            "Date": "2/24/21",
             "Baden-Württemberg": "45.5",
             "Bayern": "55.2",
             "Berlin": "53.8",
@@ -5901,7 +5901,7 @@
             "Gesamt": "59.3"
         },
         {
-            "undefined": "2/25/21",
+            "Date": "2/25/21",
             "Baden-Württemberg": "47.6",
             "Bayern": "58.4",
             "Berlin": "54.9",
@@ -5921,7 +5921,7 @@
             "Gesamt": "61.7"
         },
         {
-            "undefined": "2/26/21",
+            "Date": "2/26/21",
             "Baden-Württemberg": "48.8",
             "Bayern": "59.5",
             "Berlin": "52.5",
@@ -5941,7 +5941,7 @@
             "Gesamt": "62.6"
         },
         {
-            "undefined": "2/27/21",
+            "Date": "2/27/21",
             "Baden-Württemberg": "49.3",
             "Bayern": "60.4",
             "Berlin": "61.8",
@@ -5961,7 +5961,7 @@
             "Gesamt": "63.8"
         },
         {
-            "undefined": "2/28/21",
+            "Date": "2/28/21",
             "Baden-Württemberg": "50.0",
             "Bayern": "61.8",
             "Berlin": "65.3",
@@ -5981,7 +5981,7 @@
             "Gesamt": "63.8"
         },
         {
-            "undefined": "3/1/21",
+            "Date": "3/1/21",
             "Baden-Württemberg": "52.0",
             "Bayern": "65.9",
             "Berlin": "67.6",
@@ -6001,7 +6001,7 @@
             "Gesamt": "65.8"
         },
         {
-            "undefined": "3/2/21",
+            "Date": "3/2/21",
             "Baden-Württemberg": "51.9",
             "Bayern": "65.6",
             "Berlin": "62.7",
@@ -6021,7 +6021,7 @@
             "Gesamt": "65.4"
         },
         {
-            "undefined": "3/3/21",
+            "Date": "3/3/21",
             "Baden-Württemberg": "52.0",
             "Bayern": "66.6",
             "Berlin": "62.8",
@@ -6041,7 +6041,7 @@
             "Gesamt": "64.0"
         },
         {
-            "undefined": "3/4/21",
+            "Date": "3/4/21",
             "Baden-Württemberg": "54.4",
             "Bayern": "68.0",
             "Berlin": "61.8",
@@ -6061,7 +6061,7 @@
             "Gesamt": "64.7"
         },
         {
-            "undefined": "3/5/21",
+            "Date": "3/5/21",
             "Baden-Württemberg": "56.3",
             "Bayern": "69.1",
             "Berlin": "65.9",
@@ -6081,7 +6081,7 @@
             "Gesamt": "65.4"
         },
         {
-            "undefined": "3/6/21",
+            "Date": "3/6/21",
             "Baden-Württemberg": "57.3",
             "Bayern": "71.6",
             "Berlin": "64.1",
@@ -6101,7 +6101,7 @@
             "Gesamt": "65.6"
         },
         {
-            "undefined": "3/7/21",
+            "Date": "3/7/21",
             "Baden-Württemberg": "59.7",
             "Bayern": "69.8",
             "Berlin": "68.6",
@@ -6121,7 +6121,7 @@
             "Gesamt": "66.1"
         },
         {
-            "undefined": "3/8/21",
+            "Date": "3/8/21",
             "Baden-Württemberg": "60.5",
             "Bayern": "72.1",
             "Berlin": "70.9",
@@ -6141,7 +6141,7 @@
             "Gesamt": "68.0"
         },
         {
-            "undefined": "3/9/21",
+            "Date": "3/9/21",
             "Baden-Württemberg": "60.3",
             "Bayern": "74.2",
             "Berlin": "59.3",
@@ -6161,7 +6161,7 @@
             "Gesamt": "67.5"
         },
         {
-            "undefined": "3/10/21",
+            "Date": "3/10/21",
             "Baden-Württemberg": "60.7",
             "Bayern": "70.5",
             "Berlin": "53.4",
@@ -6181,7 +6181,7 @@
             "Gesamt": "65.4"
         },
         {
-            "undefined": "3/11/21",
+            "Date": "3/11/21",
             "Baden-Württemberg": "63.0",
             "Bayern": "76.9",
             "Berlin": "52.4",
@@ -6201,7 +6201,7 @@
             "Gesamt": "69.1"
         },
         {
-            "undefined": "3/12/21",
+            "Date": "3/12/21",
             "Baden-Württemberg": "66.5",
             "Bayern": "79.8",
             "Berlin": "55.4",
@@ -6221,7 +6221,7 @@
             "Gesamt": "72.4"
         },
         {
-            "undefined": "3/13/21",
+            "Date": "3/13/21",
             "Baden-Württemberg": "69.5",
             "Bayern": "82.0",
             "Berlin": "61.5",
@@ -6241,7 +6241,7 @@
             "Gesamt": "76.1"
         },
         {
-            "undefined": "3/14/21",
+            "Date": "3/14/21",
             "Baden-Württemberg": "73.7",
             "Bayern": "86.0",
             "Berlin": "70.8",
@@ -6261,7 +6261,7 @@
             "Gesamt": "79.1"
         },
         {
-            "undefined": "3/15/21",
+            "Date": "3/15/21",
             "Baden-Württemberg": "76.3",
             "Bayern": "88.4",
             "Berlin": "74.1",
@@ -6281,7 +6281,7 @@
             "Gesamt": "82.9"
         },
         {
-            "undefined": "3/16/21",
+            "Date": "3/16/21",
             "Baden-Württemberg": "75.1",
             "Bayern": "89.0",
             "Berlin": "82.1",
@@ -6301,7 +6301,7 @@
             "Gesamt": "83.7"
         },
         {
-            "undefined": "3/17/21",
+            "Date": "3/17/21",
             "Baden-Württemberg": "79.9",
             "Bayern": "91.7",
             "Berlin": "87.8",
@@ -6321,7 +6321,7 @@
             "Gesamt": "86.2"
         },
         {
-            "undefined": "3/18/21",
+            "Date": "3/18/21",
             "Baden-Württemberg": "84.8",
             "Bayern": "95.6",
             "Berlin": "88.3",
@@ -6341,7 +6341,7 @@
             "Gesamt": "90.4"
         },
         {
-            "undefined": "3/19/21",
+            "Date": "3/19/21",
             "Baden-Württemberg": "89.0",
             "Bayern": "100.8",
             "Berlin": "87.4",
@@ -6361,7 +6361,7 @@
             "Gesamt": "95.6"
         },
         {
-            "undefined": "3/20/21",
+            "Date": "3/20/21",
             "Baden-Württemberg": "92.2",
             "Bayern": "103.6",
             "Berlin": "93.1",
@@ -6381,7 +6381,7 @@
             "Gesamt": "99.9"
         },
         {
-            "undefined": "3/21/21",
+            "Date": "3/21/21",
             "Baden-Württemberg": "99.8",
             "Bayern": "107.7",
             "Berlin": "94.1",
@@ -6401,7 +6401,7 @@
             "Gesamt": "103.9"
         },
         {
-            "undefined": "3/22/21",
+            "Date": "3/22/21",
             "Baden-Württemberg": "103.1",
             "Bayern": "110.7",
             "Berlin": "98.3",
@@ -6421,7 +6421,7 @@
             "Gesamt": "107.3"
         },
         {
-            "undefined": "3/23/21",
+            "Date": "3/23/21",
             "Baden-Württemberg": "103.0",
             "Bayern": "110.7",
             "Berlin": "94.4",
@@ -6441,7 +6441,7 @@
             "Gesamt": "108.1"
         },
         {
-            "undefined": "3/24/21",
+            "Date": "3/24/21",
             "Baden-Württemberg": "101.9",
             "Bayern": "110.8",
             "Berlin": "97.2",
@@ -6461,7 +6461,7 @@
             "Gesamt": "108.1"
         },
         {
-            "undefined": "3/25/21",
+            "Date": "3/25/21",
             "Baden-Württemberg": "108.6",
             "Bayern": "114.5",
             "Berlin": "111.3",
@@ -6481,7 +6481,7 @@
             "Gesamt": "113.3"
         },
         {
-            "undefined": "3/26/21",
+            "Date": "3/26/21",
             "Baden-Württemberg": "115.2",
             "Bayern": "122.1",
             "Berlin": "117.8",
@@ -6501,7 +6501,7 @@
             "Gesamt": "119.1"
         },
         {
-            "undefined": "3/27/21",
+            "Date": "3/27/21",
             "Baden-Württemberg": "121.2",
             "Bayern": "130.3",
             "Berlin": "127.5",
@@ -6521,7 +6521,7 @@
             "Gesamt": "124.9"
         },
         {
-            "undefined": "3/28/21",
+            "Date": "3/28/21",
             "Baden-Württemberg": "121.5",
             "Bayern": "135.8",
             "Berlin": "140.2",
@@ -6541,7 +6541,7 @@
             "Gesamt": "129.7"
         },
         {
-            "undefined": "3/29/21",
+            "Date": "3/29/21",
             "Baden-Württemberg": "127.4",
             "Bayern": "138.3",
             "Berlin": "146.1",
@@ -6561,7 +6561,7 @@
             "Gesamt": "134.4"
         },
         {
-            "undefined": "3/30/21",
+            "Date": "3/30/21",
             "Baden-Württemberg": "127.1",
             "Bayern": "140.5",
             "Berlin": "136.6",
@@ -6581,7 +6581,7 @@
             "Gesamt": "135.2"
         },
         {
-            "undefined": "3/31/21",
+            "Date": "3/31/21",
             "Baden-Württemberg": "125.7",
             "Bayern": "136.6",
             "Berlin": "124.4",
@@ -6601,7 +6601,7 @@
             "Gesamt": "132.3"
         },
         {
-            "undefined": "4/1/21",
+            "Date": "4/1/21",
             "Baden-Württemberg": "129.8",
             "Bayern": "142.0",
             "Berlin": "124.4",
@@ -6621,7 +6621,7 @@
             "Gesamt": "134.2"
         },
         {
-            "undefined": "4/2/21",
+            "Date": "4/2/21",
             "Baden-Württemberg": "131.0",
             "Bayern": "140.4",
             "Berlin": "130.8",
@@ -6641,7 +6641,7 @@
             "Gesamt": "134.0"
         },
         {
-            "undefined": "4/3/21",
+            "Date": "4/3/21",
             "Baden-Württemberg": "131.1",
             "Bayern": "137.2",
             "Berlin": "116.9",
@@ -6661,7 +6661,7 @@
             "Gesamt": "131.4"
         },
         {
-            "undefined": "4/4/21",
+            "Date": "4/4/21",
             "Baden-Württemberg": "121.7",
             "Bayern": "131.8",
             "Berlin": "125.1",
@@ -6681,7 +6681,7 @@
             "Gesamt": "127.0"
         },
         {
-            "undefined": "4/5/21",
+            "Date": "4/5/21",
             "Baden-Württemberg": "121.0",
             "Bayern": "132.7",
             "Berlin": "130.7",
@@ -6701,7 +6701,7 @@
             "Gesamt": "128.0"
         },
         {
-            "undefined": "4/6/21",
+            "Date": "4/6/21",
             "Baden-Württemberg": "116.7",
             "Bayern": "128.9",
             "Berlin": "114.6",
@@ -6721,7 +6721,7 @@
             "Gesamt": "123.0"
         },
         {
-            "undefined": "4/7/21",
+            "Date": "4/7/21",
             "Baden-Württemberg": "100.6",
             "Bayern": "120.6",
             "Berlin": "105.1",
@@ -6741,7 +6741,7 @@
             "Gesamt": "110.1"
         },
         {
-            "undefined": "4/8/21",
+            "Date": "4/8/21",
             "Baden-Württemberg": "101.1",
             "Bayern": "119.0",
             "Berlin": "89.5",
@@ -6761,7 +6761,7 @@
             "Gesamt": "105.7"
         },
         {
-            "undefined": "4/9/21",
+            "Date": "4/9/21",
             "Baden-Württemberg": "109.3",
             "Bayern": "129.0",
             "Berlin": "89.2",
@@ -6781,7 +6781,7 @@
             "Gesamt": "110.4"
         },
         {
-            "undefined": "4/10/21",
+            "Date": "4/10/21",
             "Baden-Württemberg": "120.2",
             "Bayern": "138.6",
             "Berlin": "107.2",
@@ -6801,7 +6801,7 @@
             "Gesamt": "120.6"
         },
         {
-            "undefined": "4/11/21",
+            "Date": "4/11/21",
             "Baden-Württemberg": "134.0",
             "Bayern": "138.7",
             "Berlin": "105.9",
@@ -6821,7 +6821,7 @@
             "Gesamt": "129.2"
         },
         {
-            "undefined": "4/12/21",
+            "Date": "4/12/21",
             "Baden-Württemberg": "139.6",
             "Bayern": "153.3",
             "Berlin": "114.3",
@@ -6841,7 +6841,7 @@
             "Gesamt": "136.4"
         },
         {
-            "undefined": "4/13/21",
+            "Date": "4/13/21",
             "Baden-Württemberg": "143.7",
             "Bayern": "159.7",
             "Berlin": "119.9",
@@ -6861,7 +6861,7 @@
             "Gesamt": "140.9"
         },
         {
-            "undefined": "4/14/21",
+            "Date": "4/14/21",
             "Baden-Württemberg": "160.8",
             "Bayern": "172.6",
             "Berlin": "121.3",
@@ -6881,7 +6881,7 @@
             "Gesamt": "153.2"
         },
         {
-            "undefined": "4/15/21",
+            "Date": "4/15/21",
             "Baden-Württemberg": "165.3",
             "Bayern": "178.4",
             "Berlin": "137.3",
@@ -6901,7 +6901,7 @@
             "Gesamt": "160.1"
         },
         {
-            "undefined": "4/16/21",
+            "Date": "4/16/21",
             "Baden-Württemberg": "165.0",
             "Bayern": "180.4",
             "Berlin": "138.3",
@@ -6921,7 +6921,7 @@
             "Gesamt": "160.1"
         },
         {
-            "undefined": "4/17/21",
+            "Date": "4/17/21",
             "Baden-Württemberg": "168.3",
             "Bayern": "182.4",
             "Berlin": "144.2",
@@ -6941,7 +6941,7 @@
             "Gesamt": "160.7"
         },
         {
-            "undefined": "4/18/21",
+            "Date": "4/18/21",
             "Baden-Württemberg": "170.5",
             "Bayern": "185.4",
             "Berlin": "147.4",
@@ -6961,7 +6961,7 @@
             "Gesamt": "162.3"
         },
         {
-            "undefined": "4/19/21",
+            "Date": "4/19/21",
             "Baden-Württemberg": "173.4",
             "Bayern": "187.3",
             "Berlin": "153.6",
@@ -6981,7 +6981,7 @@
             "Gesamt": "165.3"
         },
         {
-            "undefined": "4/20/21",
+            "Date": "4/20/21",
             "Baden-Württemberg": "170.5",
             "Bayern": "185.3",
             "Berlin": "145.7",
@@ -7001,7 +7001,7 @@
             "Gesamt": "162.4"
         },
         {
-            "undefined": "4/21/21",
+            "Date": "4/21/21",
             "Baden-Württemberg": "172.6",
             "Bayern": "184.8",
             "Berlin": "135.7",
@@ -7021,7 +7021,7 @@
             "Gesamt": "160.1"
         },
         {
-            "undefined": "4/22/21",
+            "Date": "4/22/21",
             "Baden-Württemberg": "183.0",
             "Bayern": "180.3",
             "Berlin": "133.8",
@@ -7041,7 +7041,7 @@
             "Gesamt": "161.1"
         },
         {
-            "undefined": "4/23/21",
+            "Date": "4/23/21",
             "Baden-Württemberg": "184.5",
             "Bayern": "180.5",
             "Berlin": "135.0",
@@ -7061,7 +7061,7 @@
             "Gesamt": "164.0"
         },
         {
-            "undefined": "4/24/21",
+            "Date": "4/24/21",
             "Baden-Württemberg": "188.0",
             "Bayern": "176.2",
             "Berlin": "132.6",
@@ -7081,7 +7081,7 @@
             "Gesamt": "164.4"
         },
         {
-            "undefined": "4/25/21",
+            "Date": "4/25/21",
             "Baden-Württemberg": "190.5",
             "Bayern": "176.0",
             "Berlin": "135.4",
@@ -7101,7 +7101,7 @@
             "Gesamt": "165.6"
         },
         {
-            "undefined": "4/26/21",
+            "Date": "4/26/21",
             "Baden-Württemberg": "196.3",
             "Bayern": "179.0",
             "Berlin": "137.9",
@@ -7121,7 +7121,7 @@
             "Gesamt": "169.3"
         },
         {
-            "undefined": "4/27/21",
+            "Date": "4/27/21",
             "Baden-Württemberg": "197.3",
             "Bayern": "173.7",
             "Berlin": "136.5",
@@ -7141,7 +7141,7 @@
             "Gesamt": "167.6"
         },
         {
-            "undefined": "4/28/21",
+            "Date": "4/28/21",
             "Baden-Württemberg": "191.9",
             "Bayern": "162.9",
             "Berlin": "134.0",
@@ -7161,7 +7161,7 @@
             "Gesamt": "160.6"
         },
         {
-            "undefined": "4/29/21",
+            "Date": "4/29/21",
             "Baden-Württemberg": "176.0",
             "Bayern": "161.0",
             "Berlin": "130.2",
@@ -7181,7 +7181,7 @@
             "Gesamt": "154.9"
         },
         {
-            "undefined": "4/30/21",
+            "Date": "4/30/21",
             "Baden-Württemberg": "186.3",
             "Bayern": "154.5",
             "Berlin": "126.1",
@@ -7201,7 +7201,7 @@
             "Gesamt": "153.4"
         },
         {
-            "undefined": "5/1/21",
+            "Date": "5/1/21",
             "Baden-Württemberg": "184.0",
             "Bayern": "150.4",
             "Berlin": "121.0",
@@ -7221,7 +7221,7 @@
             "Gesamt": "148.6"
         },
         {
-            "undefined": "5/2/21",
+            "Date": "5/2/21",
             "Baden-Württemberg": "183.4",
             "Bayern": "146.9",
             "Berlin": "122.9",
@@ -7241,7 +7241,7 @@
             "Gesamt": "146.5"
         },
         {
-            "undefined": "5/3/21",
+            "Date": "5/3/21",
             "Baden-Württemberg": "184.6",
             "Bayern": "145.4",
             "Berlin": "121.7",
@@ -7261,7 +7261,7 @@
             "Gesamt": "146.9"
         },
         {
-            "undefined": "5/4/21",
+            "Date": "5/4/21",
             "Baden-Württemberg": "173.1",
             "Bayern": "140.0",
             "Berlin": "111.2",
@@ -7281,7 +7281,7 @@
             "Gesamt": "141.4"
         },
         {
-            "undefined": "5/5/21",
+            "Date": "5/5/21",
             "Baden-Württemberg": "161.4",
             "Bayern": "131.1",
             "Berlin": "104.8",
@@ -7301,7 +7301,7 @@
             "Gesamt": "132.8"
         },
         {
-            "undefined": "5/6/21",
+            "Date": "5/6/21",
             "Baden-Württemberg": "159.3",
             "Bayern": "123.8",
             "Berlin": "103.7",
@@ -7321,7 +7321,7 @@
             "Gesamt": "129.1"
         },
         {
-            "undefined": "5/7/21",
+            "Date": "5/7/21",
             "Baden-Württemberg": "155.3",
             "Bayern": "122.0",
             "Berlin": "98.6",
@@ -7341,7 +7341,7 @@
             "Gesamt": "125.7"
         },
         {
-            "undefined": "5/8/21",
+            "Date": "5/8/21",
             "Baden-Württemberg": "148.9",
             "Bayern": "120.9",
             "Berlin": "97.0",
@@ -7361,7 +7361,7 @@
             "Gesamt": "121.5"
         },
         {
-            "undefined": "5/9/21",
+            "Date": "5/9/21",
             "Baden-Württemberg": "145.4",
             "Bayern": "118.7",
             "Berlin": "99.6",
@@ -7381,7 +7381,7 @@
             "Gesamt": "118.6"
         },
         {
-            "undefined": "5/10/21",
+            "Date": "5/10/21",
             "Baden-Württemberg": "145.2",
             "Bayern": "119.5",
             "Berlin": "100.8",
@@ -7401,7 +7401,7 @@
             "Gesamt": "119.1"
         },
         {
-            "undefined": "5/11/21",
+            "Date": "5/11/21",
             "Baden-Württemberg": "140.6",
             "Bayern": "116.3",
             "Berlin": "93.7",
@@ -7421,7 +7421,7 @@
             "Gesamt": "115.4"
         },
         {
-            "undefined": "5/12/21",
+            "Date": "5/12/21",
             "Baden-Württemberg": "131.8",
             "Bayern": "106.6",
             "Berlin": "86.0",
@@ -7441,7 +7441,7 @@
             "Gesamt": "107.8"
         },
         {
-            "undefined": "5/13/21",
+            "Date": "5/13/21",
             "Baden-Württemberg": "127.8",
             "Bayern": "101.0",
             "Berlin": "83.4",
@@ -7461,7 +7461,7 @@
             "Gesamt": "103.6"
         },
         {
-            "undefined": "5/14/21",
+            "Date": "5/14/21",
             "Baden-Württemberg": "119.1",
             "Bayern": "95.3",
             "Berlin": "71.5",
@@ -7481,7 +7481,7 @@
             "Gesamt": "96.5"
         },
         {
-            "undefined": "5/15/21",
+            "Date": "5/15/21",
             "Baden-Württemberg": "107.1",
             "Bayern": "85.8",
             "Berlin": "67.3",
@@ -7501,7 +7501,7 @@
             "Gesamt": "87.3"
         },
         {
-            "undefined": "5/16/21",
+            "Date": "5/16/21",
             "Baden-Württemberg": "102.3",
             "Bayern": "82.5",
             "Berlin": "66.9",
@@ -7521,7 +7521,7 @@
             "Gesamt": "83.1"
         },
         {
-            "undefined": "5/17/21",
+            "Date": "5/17/21",
             "Baden-Württemberg": "101.0",
             "Bayern": "82.6",
             "Berlin": "68.6",
@@ -7541,7 +7541,7 @@
             "Gesamt": "83.1"
         },
         {
-            "undefined": "5/18/21",
+            "Date": "5/18/21",
             "Baden-Württemberg": "95.0",
             "Bayern": "80.9",
             "Berlin": "63.3",
@@ -7561,7 +7561,7 @@
             "Gesamt": "79.5"
         },
         {
-            "undefined": "5/19/21",
+            "Date": "5/19/21",
             "Baden-Württemberg": "87.7",
             "Bayern": "74.1",
             "Berlin": "61.5",
@@ -7581,7 +7581,7 @@
             "Gesamt": "72.8"
         },
         {
-            "undefined": "5/20/21",
+            "Date": "5/20/21",
             "Baden-Württemberg": "81.8",
             "Bayern": "68.8",
             "Berlin": "56.3",
@@ -7601,7 +7601,7 @@
             "Gesamt": "68.0"
         },
         {
-            "undefined": "5/21/21",
+            "Date": "5/21/21",
             "Baden-Württemberg": "80.2",
             "Bayern": "66.9",
             "Berlin": "60.4",
@@ -7621,7 +7621,7 @@
             "Gesamt": "67.3"
         },
         {
-            "undefined": "5/22/21",
+            "Date": "5/22/21",
             "Baden-Württemberg": "80.5",
             "Bayern": "65.3",
             "Berlin": "56.1",
@@ -7641,7 +7641,7 @@
             "Gesamt": "66.8"
         },
         {
-            "undefined": "5/23/21",
+            "Date": "5/23/21",
             "Baden-Württemberg": "80.4",
             "Bayern": "62.6",
             "Berlin": "55.5",
@@ -7661,7 +7661,7 @@
             "Gesamt": "64.5"
         },
         {
-            "undefined": "5/24/21",
+            "Date": "5/24/21",
             "Baden-Württemberg": "80.2",
             "Bayern": "59.2",
             "Berlin": "55.9",
@@ -7681,7 +7681,7 @@
             "Gesamt": "62.5"
         },
         {
-            "undefined": "5/25/21",
+            "Date": "5/25/21",
             "Baden-Württemberg": "74.5",
             "Bayern": "56.6",
             "Berlin": "46.5",
@@ -7701,7 +7701,7 @@
             "Gesamt": "58.4"
         },
         {
-            "undefined": "5/26/21",
+            "Date": "5/26/21",
             "Baden-Württemberg": "59.3",
             "Bayern": "45.9",
             "Berlin": "39.3",
@@ -7721,7 +7721,7 @@
             "Gesamt": "46.8"
         },
         {
-            "undefined": "5/27/21",
+            "Date": "5/27/21",
             "Baden-Württemberg": "51.4",
             "Bayern": "40.8",
             "Berlin": "34.1",
@@ -7741,7 +7741,7 @@
             "Gesamt": "41.0"
         },
         {
-            "undefined": "5/28/21",
+            "Date": "5/28/21",
             "Baden-Württemberg": "50.2",
             "Bayern": "40.1",
             "Berlin": "35.0",
@@ -7761,7 +7761,7 @@
             "Gesamt": "39.8"
         },
         {
-            "undefined": "5/29/21",
+            "Date": "5/29/21",
             "Baden-Württemberg": "46.4",
             "Bayern": "38.2",
             "Berlin": "36.0",
@@ -7781,7 +7781,7 @@
             "Gesamt": "37.5"
         },
         {
-            "undefined": "5/30/21",
+            "Date": "5/30/21",
             "Baden-Württemberg": "43.7",
             "Bayern": "36.0",
             "Berlin": "32.8",
@@ -7801,7 +7801,7 @@
             "Gesamt": "35.2"
         },
         {
-            "undefined": "5/31/21",
+            "Date": "5/31/21",
             "Baden-Württemberg": "42.9",
             "Bayern": "36.4",
             "Berlin": "32.6",
@@ -7821,7 +7821,7 @@
             "Gesamt": "35.1"
         },
         {
-            "undefined": "6/1/21",
+            "Date": "6/1/21",
             "Baden-Württemberg": "42.8",
             "Bayern": "35.6",
             "Berlin": "33.6",
@@ -7841,7 +7841,7 @@
             "Gesamt": "35.2"
         },
         {
-            "undefined": "6/2/21",
+            "Date": "6/2/21",
             "Baden-Württemberg": "45.0",
             "Bayern": "37.5",
             "Berlin": "33.0",
@@ -7861,7 +7861,7 @@
             "Gesamt": "36.8"
         },
         {
-            "undefined": "6/3/21",
+            "Date": "6/3/21",
             "Baden-Württemberg": "42.0",
             "Bayern": "34.2",
             "Berlin": "31.4",
@@ -7881,7 +7881,7 @@
             "Gesamt": "34.1"
         },
         {
-            "undefined": "6/4/21",
+            "Date": "6/4/21",
             "Baden-Württemberg": "37.0",
             "Bayern": "29.0",
             "Berlin": "28.7",
@@ -7901,7 +7901,7 @@
             "Gesamt": "29.7"
         },
         {
-            "undefined": "6/5/21",
+            "Date": "6/5/21",
             "Baden-Württemberg": "31.4",
             "Bayern": "26.3",
             "Berlin": "26.3",
@@ -7921,7 +7921,7 @@
             "Gesamt": "26.3"
         },
         {
-            "undefined": "6/6/21",
+            "Date": "6/6/21",
             "Baden-Württemberg": "29.5",
             "Bayern": "25.3",
             "Berlin": "26.5",
@@ -7941,7 +7941,7 @@
             "Gesamt": "24.7"
         },
         {
-            "undefined": "6/7/21",
+            "Date": "6/7/21",
             "Baden-Württemberg": "29.3",
             "Bayern": "24.6",
             "Berlin": "26.5",
@@ -7961,7 +7961,7 @@
             "Gesamt": "24.3"
         },
         {
-            "undefined": "6/8/21",
+            "Date": "6/8/21",
             "Baden-Württemberg": "28.0",
             "Bayern": "23.6",
             "Berlin": "24.2",
@@ -7981,7 +7981,7 @@
             "Gesamt": "22.9"
         },
         {
-            "undefined": "6/9/21",
+            "Date": "6/9/21",
             "Baden-Württemberg": "26.9",
             "Bayern": "22.0",
             "Berlin": "22.6",
@@ -8001,7 +8001,7 @@
             "Gesamt": "20.8"
         },
         {
-            "undefined": "6/10/21",
+            "Date": "6/10/21",
             "Baden-Württemberg": "25.9",
             "Bayern": "21.9",
             "Berlin": "20.2",
@@ -8021,7 +8021,7 @@
             "Gesamt": "19.3"
         },
         {
-            "undefined": "6/11/21",
+            "Date": "6/11/21",
             "Baden-Württemberg": "25.2",
             "Bayern": "22.1",
             "Berlin": "16.6",
@@ -8041,7 +8041,7 @@
             "Gesamt": "18.6"
         },
         {
-            "undefined": "6/12/21",
+            "Date": "6/12/21",
             "Baden-Württemberg": "26.0",
             "Bayern": "22.0",
             "Berlin": "15.6",
@@ -8061,7 +8061,7 @@
             "Gesamt": "18.3"
         },
         {
-            "undefined": "6/13/21",
+            "Date": "6/13/21",
             "Baden-Württemberg": "25.4",
             "Bayern": "20.6",
             "Berlin": "15.4",
@@ -8081,7 +8081,7 @@
             "Gesamt": "17.3"
         },
         {
-            "undefined": "6/14/21",
+            "Date": "6/14/21",
             "Baden-Württemberg": "23.8",
             "Bayern": "20.1",
             "Berlin": "15.4",
@@ -8101,7 +8101,7 @@
             "Gesamt": "16.6"
         },
         {
-            "undefined": "6/15/21",
+            "Date": "6/15/21",
             "Baden-Württemberg": "22.1",
             "Bayern": "18.8",
             "Berlin": "13.6",
@@ -8121,7 +8121,7 @@
             "Gesamt": "15.5"
         },
         {
-            "undefined": "6/16/21",
+            "Date": "6/16/21",
             "Baden-Württemberg": "18.8",
             "Bayern": "15.7",
             "Berlin": "12.2",
@@ -8141,7 +8141,7 @@
             "Gesamt": "13.2"
         },
         {
-            "undefined": "6/17/21",
+            "Date": "6/17/21",
             "Baden-Württemberg": "16.7",
             "Bayern": "13.5",
             "Berlin": "10.7",
@@ -8161,7 +8161,7 @@
             "Gesamt": "11.6"
         },
         {
-            "undefined": "6/18/21",
+            "Date": "6/18/21",
             "Baden-Württemberg": "15.6",
             "Bayern": "12.0",
             "Berlin": "8.4",
@@ -8181,7 +8181,7 @@
             "Gesamt": "10.3"
         },
         {
-            "undefined": "6/19/21",
+            "Date": "6/19/21",
             "Baden-Württemberg": "14.0",
             "Bayern": "11.3",
             "Berlin": "7.4",
@@ -8201,7 +8201,7 @@
             "Gesamt": "9.3"
         },
         {
-            "undefined": "6/20/21",
+            "Date": "6/20/21",
             "Baden-Württemberg": "12.7",
             "Bayern": "10.5",
             "Berlin": "7.6",
@@ -8221,7 +8221,7 @@
             "Gesamt": "8.8"
         },
         {
-            "undefined": "6/21/21",
+            "Date": "6/21/21",
             "Baden-Württemberg": "12.5",
             "Bayern": "10.3",
             "Berlin": "7.5",
@@ -8241,7 +8241,7 @@
             "Gesamt": "8.6"
         },
         {
-            "undefined": "6/22/21",
+            "Date": "6/22/21",
             "Baden-Württemberg": "11.9",
             "Bayern": "9.8",
             "Berlin": "7.1",
@@ -8261,7 +8261,7 @@
             "Gesamt": "8.0"
         },
         {
-            "undefined": "6/23/21",
+            "Date": "6/23/21",
             "Baden-Württemberg": "10.4",
             "Bayern": "8.8",
             "Berlin": "7.2",
@@ -8281,7 +8281,7 @@
             "Gesamt": "7.2"
         },
         {
-            "undefined": "6/24/21",
+            "Date": "6/24/21",
             "Baden-Württemberg": "9.0",
             "Bayern": "7.9",
             "Berlin": "6.5",
@@ -8301,7 +8301,7 @@
             "Gesamt": "6.6"
         },
         {
-            "undefined": "6/25/21",
+            "Date": "6/25/21",
             "Baden-Württemberg": "8.1",
             "Bayern": "7.6",
             "Berlin": "7.1",
@@ -8321,7 +8321,7 @@
             "Gesamt": "6.2"
         },
         {
-            "undefined": "6/26/21",
+            "Date": "6/26/21",
             "Baden-Württemberg": "7.9",
             "Bayern": "7.2",
             "Berlin": "6.7",
@@ -8341,7 +8341,7 @@
             "Gesamt": "5.9"
         },
         {
-            "undefined": "6/27/21",
+            "Date": "6/27/21",
             "Baden-Württemberg": "7.3",
             "Bayern": "7.0",
             "Berlin": "6.5",
@@ -8361,7 +8361,7 @@
             "Gesamt": "5.7"
         },
         {
-            "undefined": "6/28/21",
+            "Date": "6/28/21",
             "Baden-Württemberg": "7.2",
             "Bayern": "6.9",
             "Berlin": "6.5",
@@ -8381,7 +8381,7 @@
             "Gesamt": "5.6"
         },
         {
-            "undefined": "6/29/21",
+            "Date": "6/29/21",
             "Baden-Württemberg": "6.8",
             "Bayern": "6.8",
             "Berlin": "5.9",
@@ -8401,7 +8401,7 @@
             "Gesamt": "5.4"
         },
         {
-            "undefined": "6/30/21",
+            "Date": "6/30/21",
             "Baden-Württemberg": "6.5",
             "Bayern": "6.3",
             "Berlin": "5.7",
@@ -8421,7 +8421,7 @@
             "Gesamt": "5.2"
         },
         {
-            "undefined": "7/1/21",
+            "Date": "7/1/21",
             "Baden-Württemberg": "6.2",
             "Bayern": "6.0",
             "Berlin": "5.5",
@@ -8441,7 +8441,7 @@
             "Gesamt": "5.1"
         },
         {
-            "undefined": "7/2/21",
+            "Date": "7/2/21",
             "Baden-Württemberg": "5.8",
             "Bayern": "5.9",
             "Berlin": "5.1",
@@ -8461,7 +8461,7 @@
             "Gesamt": "5.0"
         },
         {
-            "undefined": "7/3/21",
+            "Date": "7/3/21",
             "Baden-Württemberg": "5.2",
             "Bayern": "5.7",
             "Berlin": "5.0",
@@ -8481,7 +8481,7 @@
             "Gesamt": "4.9"
         },
         {
-            "undefined": "7/4/21",
+            "Date": "7/4/21",
             "Baden-Württemberg": "5.5",
             "Bayern": "5.6",
             "Berlin": "4.8",
@@ -8501,7 +8501,7 @@
             "Gesamt": "5.0"
         },
         {
-            "undefined": "7/5/21",
+            "Date": "7/5/21",
             "Baden-Württemberg": "5.5",
             "Bayern": "5.6",
             "Berlin": "4.9",
@@ -8521,7 +8521,7 @@
             "Gesamt": "5.0"
         },
         {
-            "undefined": "7/6/21",
+            "Date": "7/6/21",
             "Baden-Württemberg": "5.1",
             "Bayern": "5.4",
             "Berlin": "5.3",
@@ -8541,7 +8541,7 @@
             "Gesamt": "4.9"
         },
         {
-            "undefined": "7/7/21",
+            "Date": "7/7/21",
             "Baden-Württemberg": "5.1",
             "Bayern": "5.5",
             "Berlin": "5.6",
@@ -8561,7 +8561,7 @@
             "Gesamt": "5.1"
         },
         {
-            "undefined": "7/8/21",
+            "Date": "7/8/21",
             "Baden-Württemberg": "5.1",
             "Bayern": "5.8",
             "Berlin": "6.2",
@@ -8581,7 +8581,7 @@
             "Gesamt": "5.2"
         },
         {
-            "undefined": "7/9/21",
+            "Date": "7/9/21",
             "Baden-Württemberg": "5.6",
             "Bayern": "6.2",
             "Berlin": "6.9",
@@ -8601,7 +8601,7 @@
             "Gesamt": "5.5"
         },
         {
-            "undefined": "7/10/21",
+            "Date": "7/10/21",
             "Baden-Württemberg": "5.9",
             "Bayern": "6.6",
             "Berlin": "7.3",
@@ -8621,7 +8621,7 @@
             "Gesamt": "5.8"
         },
         {
-            "undefined": "7/11/21",
+            "Date": "7/11/21",
             "Baden-Württemberg": "6.3",
             "Bayern": "7.1",
             "Berlin": "7.4",
@@ -8641,7 +8641,7 @@
             "Gesamt": "6.2"
         },
         {
-            "undefined": "7/12/21",
+            "Date": "7/12/21",
             "Baden-Württemberg": "6.4",
             "Bayern": "7.3",
             "Berlin": "7.3",
@@ -8661,7 +8661,7 @@
             "Gesamt": "6.4"
         },
         {
-            "undefined": "7/13/21",
+            "Date": "7/13/21",
             "Baden-Württemberg": "6.5",
             "Bayern": "7.3",
             "Berlin": "7.9",
@@ -8681,7 +8681,7 @@
             "Gesamt": "6.5"
         },
         {
-            "undefined": "7/14/21",
+            "Date": "7/14/21",
             "Baden-Württemberg": "7.1",
             "Bayern": "8.2",
             "Berlin": "9.2",
@@ -8701,7 +8701,7 @@
             "Gesamt": "7.1"
         },
         {
-            "undefined": "7/15/21",
+            "Date": "7/15/21",
             "Baden-Württemberg": "8.0",
             "Bayern": "8.8",
             "Berlin": "11.6",
@@ -8721,7 +8721,7 @@
             "Gesamt": "8.0"
         },
         {
-            "undefined": "7/16/21",
+            "Date": "7/16/21",
             "Baden-Württemberg": "8.2",
             "Bayern": "9.4",
             "Berlin": "13.9",
@@ -8741,7 +8741,7 @@
             "Gesamt": "8.6"
         },
         {
-            "undefined": "7/17/21",
+            "Date": "7/17/21",
             "Baden-Württemberg": "8.8",
             "Bayern": "10.2",
             "Berlin": "16.0",
@@ -8761,7 +8761,7 @@
             "Gesamt": "9.4"
         },
         {
-            "undefined": "7/18/21",
+            "Date": "7/18/21",
             "Baden-Württemberg": "9.7",
             "Bayern": "10.6",
             "Berlin": "15.8",
@@ -8781,7 +8781,7 @@
             "Gesamt": "10.0"
         },
         {
-            "undefined": "7/19/21",
+            "Date": "7/19/21",
             "Baden-Württemberg": "9.9",
             "Bayern": "10.7",
             "Berlin": "15.8",
@@ -8801,7 +8801,7 @@
             "Gesamt": "10.3"
         },
         {
-            "undefined": "7/20/21",
+            "Date": "7/20/21",
             "Baden-Württemberg": "9.5",
             "Bayern": "11.0",
             "Berlin": "18.0",
@@ -8821,7 +8821,7 @@
             "Gesamt": "10.9"
         },
         {
-            "undefined": "7/21/21",
+            "Date": "7/21/21",
             "Baden-Württemberg": "9.6",
             "Bayern": "11.1",
             "Berlin": "21.8",
@@ -8841,7 +8841,7 @@
             "Gesamt": "11.4"
         },
         {
-            "undefined": "7/22/21",
+            "Date": "7/22/21",
             "Baden-Württemberg": "10.3",
             "Bayern": "11.8",
             "Berlin": "22.6",
@@ -8861,7 +8861,7 @@
             "Gesamt": "12.2"
         },
         {
-            "undefined": "7/23/21",
+            "Date": "7/23/21",
             "Baden-Württemberg": "11.4",
             "Bayern": "12.2",
             "Berlin": "21.8",
@@ -8881,7 +8881,7 @@
             "Gesamt": "13.2"
         },
         {
-            "undefined": "7/24/21",
+            "Date": "7/24/21",
             "Baden-Württemberg": "11.8",
             "Bayern": "12.2",
             "Berlin": "23.5",
@@ -8901,7 +8901,7 @@
             "Gesamt": "13.6"
         },
         {
-            "undefined": "7/25/21",
+            "Date": "7/25/21",
             "Baden-Württemberg": "12.1",
             "Bayern": "10.9",
             "Berlin": "23.5",
@@ -8921,7 +8921,7 @@
             "Gesamt": "13.8"
         },
         {
-            "undefined": "7/26/21",
+            "Date": "7/26/21",
             "Baden-Württemberg": "12.4",
             "Bayern": "13.3",
             "Berlin": "23.8",
@@ -8941,7 +8941,7 @@
             "Gesamt": "14.3"
         },
         {
-            "undefined": "7/27/21",
+            "Date": "7/27/21",
             "Baden-Württemberg": "12.2",
             "Bayern": "13.2",
             "Berlin": "24.8",
@@ -8961,7 +8961,7 @@
             "Gesamt": "14.5"
         },
         {
-            "undefined": "7/28/21",
+            "Date": "7/28/21",
             "Baden-Württemberg": "12.5",
             "Bayern": "13.4",
             "Berlin": "24.8",
@@ -8981,7 +8981,7 @@
             "Gesamt": "15.0"
         },
         {
-            "undefined": "7/29/21",
+            "Date": "7/29/21",
             "Baden-Württemberg": "13.5",
             "Bayern": "13.9",
             "Berlin": "24.8",
@@ -9001,7 +9001,7 @@
             "Gesamt": "16.0"
         },
         {
-            "undefined": "7/30/21",
+            "Date": "7/30/21",
             "Baden-Württemberg": "13.6",
             "Bayern": "14.1",
             "Berlin": "27.6",
@@ -9021,7 +9021,7 @@
             "Gesamt": "16.5"
         },
         {
-            "undefined": "7/31/21",
+            "Date": "7/31/21",
             "Baden-Württemberg": "14.1",
             "Bayern": "14.2",
             "Berlin": "26.8",
@@ -9041,7 +9041,7 @@
             "Gesamt": "16.9"
         },
         {
-            "undefined": "8/1/21",
+            "Date": "8/1/21",
             "Baden-Württemberg": "14.8",
             "Bayern": "14.4",
             "Berlin": "27.0",
@@ -9061,7 +9061,7 @@
             "Gesamt": "17.5"
         },
         {
-            "undefined": "8/2/21",
+            "Date": "8/2/21",
             "Baden-Württemberg": "14.9",
             "Bayern": "14.6",
             "Berlin": "27.2",
@@ -9081,7 +9081,7 @@
             "Gesamt": "17.8"
         },
         {
-            "undefined": "8/3/21",
+            "Date": "8/3/21",
             "Baden-Württemberg": "14.5",
             "Bayern": "14.0",
             "Berlin": "27.6",
@@ -9101,7 +9101,7 @@
             "Gesamt": "17.9"
         },
         {
-            "undefined": "8/4/21",
+            "Date": "8/4/21",
             "Baden-Württemberg": "14.0",
             "Bayern": "13.4",
             "Berlin": "29.5",
@@ -9121,7 +9121,7 @@
             "Gesamt": "18.5"
         },
         {
-            "undefined": "8/5/21",
+            "Date": "8/5/21",
             "Baden-Württemberg": "14.8",
             "Bayern": "13.6",
             "Berlin": "32.7",
@@ -9141,7 +9141,7 @@
             "Gesamt": "19.4"
         },
         {
-            "undefined": "8/6/21",
+            "Date": "8/6/21",
             "Baden-Württemberg": "15.6",
             "Bayern": "13.8",
             "Berlin": "35.0",
@@ -9161,7 +9161,7 @@
             "Gesamt": "20.4"
         },
         {
-            "undefined": "8/7/21",
+            "Date": "8/7/21",
             "Baden-Württemberg": "15.8",
             "Bayern": "14.2",
             "Berlin": "36.6",
@@ -9181,7 +9181,7 @@
             "Gesamt": "21.2"
         },
         {
-            "undefined": "8/8/21",
+            "Date": "8/8/21",
             "Baden-Württemberg": "16.9",
             "Bayern": "15.3",
             "Berlin": "37.9",
@@ -9201,7 +9201,7 @@
             "Gesamt": "22.6"
         },
         {
-            "undefined": "8/9/21",
+            "Date": "8/9/21",
             "Baden-Württemberg": "17.2",
             "Bayern": "15.9",
             "Berlin": "38.0",
@@ -9221,7 +9221,7 @@
             "Gesamt": "23.1"
         },
         {
-            "undefined": "8/10/21",
+            "Date": "8/10/21",
             "Baden-Württemberg": "17.3",
             "Bayern": "16.1",
             "Berlin": "40.7",
@@ -9241,7 +9241,7 @@
             "Gesamt": "23.5"
         },
         {
-            "undefined": "8/11/21",
+            "Date": "8/11/21",
             "Baden-Württemberg": "19.2",
             "Bayern": "18.2",
             "Berlin": "42.9",
@@ -9261,7 +9261,7 @@
             "Gesamt": "25.1"
         },
         {
-            "undefined": "8/12/21",
+            "Date": "8/12/21",
             "Baden-Württemberg": "21.3",
             "Bayern": "20.5",
             "Berlin": "44.4",
@@ -9281,7 +9281,7 @@
             "Gesamt": "27.6"
         },
         {
-            "undefined": "8/13/21",
+            "Date": "8/13/21",
             "Baden-Württemberg": "23.7",
             "Bayern": "22.7",
             "Berlin": "50.3",
@@ -9301,7 +9301,7 @@
             "Gesamt": "30.1"
         },
         {
-            "undefined": "8/14/21",
+            "Date": "8/14/21",
             "Baden-Württemberg": "25.5",
             "Bayern": "24.1",
             "Berlin": "60.7",
@@ -9321,7 +9321,7 @@
             "Gesamt": "32.7"
         },
         {
-            "undefined": "8/15/21",
+            "Date": "8/15/21",
             "Baden-Württemberg": "29.3",
             "Bayern": "26.0",
             "Berlin": "62.2",
@@ -9341,7 +9341,7 @@
             "Gesamt": "35.0"
         },
         {
-            "undefined": "8/16/21",
+            "Date": "8/16/21",
             "Baden-Württemberg": "30.0",
             "Bayern": "27.2",
             "Berlin": "61.3",
@@ -9361,7 +9361,7 @@
             "Gesamt": "36.2"
         },
         {
-            "undefined": "8/17/21",
+            "Date": "8/17/21",
             "Baden-Württemberg": "29.7",
             "Bayern": "28.0",
             "Berlin": "66.2",
@@ -9381,7 +9381,7 @@
             "Gesamt": "37.4"
         },
         {
-            "undefined": "8/18/21",
+            "Date": "8/18/21",
             "Baden-Württemberg": "33.5",
             "Bayern": "31.0",
             "Berlin": "69.2",
@@ -9401,7 +9401,7 @@
             "Gesamt": "40.8"
         },
         {
-            "undefined": "8/19/21",
+            "Date": "8/19/21",
             "Baden-Württemberg": "36.7",
             "Bayern": "34.1",
             "Berlin": "69.2",
@@ -9421,7 +9421,7 @@
             "Gesamt": "44.2"
         },
         {
-            "undefined": "8/20/21",
+            "Date": "8/20/21",
             "Baden-Württemberg": "40.3",
             "Bayern": "36.7",
             "Berlin": "69.7",
@@ -9441,7 +9441,7 @@
             "Gesamt": "48.8"
         },
         {
-            "undefined": "8/21/21",
+            "Date": "8/21/21",
             "Baden-Württemberg": "42.1",
             "Bayern": "38.4",
             "Berlin": "67.0",
@@ -9461,7 +9461,7 @@
             "Gesamt": "51.6"
         },
         {
-            "undefined": "8/22/21",
+            "Date": "8/22/21",
             "Baden-Württemberg": "46.6",
             "Bayern": "41.1",
             "Berlin": "67.3",
@@ -9481,7 +9481,7 @@
             "Gesamt": "54.5"
         },
         {
-            "undefined": "8/23/21",
+            "Date": "8/23/21",
             "Baden-Württemberg": "48.2",
             "Bayern": "43.6",
             "Berlin": "67.1",
@@ -9501,7 +9501,7 @@
             "Gesamt": "56.4"
         },
         {
-            "undefined": "8/24/21",
+            "Date": "8/24/21",
             "Baden-Württemberg": "47.9",
             "Bayern": "45.2",
             "Berlin": "68.7",
@@ -9521,7 +9521,7 @@
             "Gesamt": "58.0"
         },
         {
-            "undefined": "8/25/21",
+            "Date": "8/25/21",
             "Baden-Württemberg": "52.6",
             "Bayern": "49.6",
             "Berlin": "67.3",
@@ -9541,7 +9541,7 @@
             "Gesamt": "61.3"
         },
         {
-            "undefined": "8/26/21",
+            "Date": "8/26/21",
             "Baden-Württemberg": "61.6",
             "Bayern": "55.5",
             "Berlin": "72.3",
@@ -9561,7 +9561,7 @@
             "Gesamt": "66.0"
         },
         {
-            "undefined": "8/27/21",
+            "Date": "8/27/21",
             "Baden-Württemberg": "68.0",
             "Bayern": "61.8",
             "Berlin": "75.7",
@@ -9581,7 +9581,7 @@
             "Gesamt": "70.3"
         },
         {
-            "undefined": "8/28/21",
+            "Date": "8/28/21",
             "Baden-Württemberg": "71.7",
             "Bayern": "65.9",
             "Berlin": "74.2",
@@ -9601,7 +9601,7 @@
             "Gesamt": "72.1"
         },
         {
-            "undefined": "8/29/21",
+            "Date": "8/29/21",
             "Baden-Württemberg": "76.2",
             "Bayern": "68.5",
             "Berlin": "74.4",
@@ -9621,7 +9621,7 @@
             "Gesamt": "74.1"
         },
         {
-            "undefined": "8/30/21",
+            "Date": "8/30/21",
             "Baden-Württemberg": "78.4",
             "Bayern": "70.7",
             "Berlin": "73.7",
@@ -9641,7 +9641,7 @@
             "Gesamt": "75.8"
         },
         {
-            "undefined": "8/31/21",
+            "Date": "8/31/21",
             "Baden-Württemberg": "77.8",
             "Bayern": "70.1",
             "Berlin": "72.2",
@@ -9661,7 +9661,7 @@
             "Gesamt": "74.8"
         },
         {
-            "undefined": "9/1/21",
+            "Date": "9/1/21",
             "Baden-Württemberg": "78.3",
             "Bayern": "69.8",
             "Berlin": "80.5",
@@ -9681,7 +9681,7 @@
             "Gesamt": "75.7"
         },
         {
-            "undefined": "9/2/21",
+            "Date": "9/2/21",
             "Baden-Württemberg": "81.7",
             "Bayern": "64.6",
             "Berlin": "83.2",
@@ -9701,7 +9701,7 @@
             "Gesamt": "76.9"
         },
         {
-            "undefined": "9/3/21",
+            "Date": "9/3/21",
             "Baden-Württemberg": "83.6",
             "Bayern": "73.8",
             "Berlin": "83.8",
@@ -9721,7 +9721,7 @@
             "Gesamt": "80.2"
         },
         {
-            "undefined": "9/4/21",
+            "Date": "9/4/21",
             "Baden-Württemberg": "87.2",
             "Bayern": "75.0",
             "Berlin": "82.8",
@@ -9741,7 +9741,7 @@
             "Gesamt": "80.7"
         },
         {
-            "undefined": "9/5/21",
+            "Date": "9/5/21",
             "Baden-Württemberg": "90.8",
             "Bayern": "75.9",
             "Berlin": "83.4",
@@ -9761,7 +9761,7 @@
             "Gesamt": "83.1"
         },
         {
-            "undefined": "9/6/21",
+            "Date": "9/6/21",
             "Baden-Württemberg": "93.2",
             "Bayern": "77.4",
             "Berlin": "82.5",
@@ -9781,7 +9781,7 @@
             "Gesamt": "84.3"
         },
         {
-            "undefined": "9/7/21",
+            "Date": "9/7/21",
             "Baden-Württemberg": "91.1",
             "Bayern": "77.5",
             "Berlin": "87.9",
@@ -9801,7 +9801,7 @@
             "Gesamt": "83.8"
         },
         {
-            "undefined": "9/8/21",
+            "Date": "9/8/21",
             "Baden-Württemberg": "91.0",
             "Bayern": "77.5",
             "Berlin": "81.0",
@@ -9821,7 +9821,7 @@
             "Gesamt": "82.7"
         },
         {
-            "undefined": "9/9/21",
+            "Date": "9/9/21",
             "Baden-Württemberg": "92.6",
             "Bayern": "80.0",
             "Berlin": "82.9",
@@ -9841,7 +9841,7 @@
             "Gesamt": "83.5"
         },
         {
-            "undefined": "9/10/21",
+            "Date": "9/10/21",
             "Baden-Württemberg": "93.3",
             "Bayern": "81.3",
             "Berlin": "84.7",
@@ -9861,7 +9861,7 @@
             "Gesamt": "83.8"
         },
         {
-            "undefined": "9/11/21",
+            "Date": "9/11/21",
             "Baden-Württemberg": "93.4",
             "Bayern": "83.1",
             "Berlin": "83.8",
@@ -9881,7 +9881,7 @@
             "Gesamt": "82.8"
         },
         {
-            "undefined": "9/12/21",
+            "Date": "9/12/21",
             "Baden-Württemberg": "79.1",
             "Bayern": "84.2",
             "Berlin": "84.6",
@@ -9901,7 +9901,7 @@
             "Gesamt": "80.2"
         },
         {
-            "undefined": "9/13/21",
+            "Date": "9/13/21",
             "Baden-Württemberg": "91.8",
             "Bayern": "86.4",
             "Berlin": "84.0",
@@ -9921,7 +9921,7 @@
             "Gesamt": "81.9"
         },
         {
-            "undefined": "9/14/21",
+            "Date": "9/14/21",
             "Baden-Württemberg": "90.9",
             "Bayern": "85.8",
             "Berlin": "85.2",
@@ -9941,7 +9941,7 @@
             "Gesamt": "81.1"
         },
         {
-            "undefined": "9/15/21",
+            "Date": "9/15/21",
             "Baden-Württemberg": "91.3",
             "Bayern": "81.7",
             "Berlin": "85.3",
@@ -9961,7 +9961,7 @@
             "Gesamt": "77.9"
         },
         {
-            "undefined": "9/16/21",
+            "Date": "9/16/21",
             "Baden-Württemberg": "92.9",
             "Bayern": "84.3",
             "Berlin": "85.8",
@@ -9981,7 +9981,7 @@
             "Gesamt": "76.3"
         },
         {
-            "undefined": "9/17/21",
+            "Date": "9/17/21",
             "Baden-Württemberg": "94.3",
             "Bayern": "86.7",
             "Berlin": "83.4",
@@ -10001,7 +10001,7 @@
             "Gesamt": "74.7"
         },
         {
-            "undefined": "9/18/21",
+            "Date": "9/18/21",
             "Baden-Württemberg": "92.4",
             "Bayern": "86.3",
             "Berlin": "78.1",
@@ -10021,7 +10021,7 @@
             "Gesamt": "72.0"
         },
         {
-            "undefined": "9/19/21",
+            "Date": "9/19/21",
             "Baden-Württemberg": "94.1",
             "Bayern": "86.0",
             "Berlin": "78.3",
@@ -10041,7 +10041,7 @@
             "Gesamt": "70.5"
         },
         {
-            "undefined": "9/20/21",
+            "Date": "9/20/21",
             "Baden-Württemberg": "93.2",
             "Bayern": "87.1",
             "Berlin": "78.0",
@@ -10061,7 +10061,7 @@
             "Gesamt": "71.0"
         },
         {
-            "undefined": "9/21/21",
+            "Date": "9/21/21",
             "Baden-Württemberg": "88.8",
             "Bayern": "87.0",
             "Berlin": "75.7",
@@ -10081,7 +10081,7 @@
             "Gesamt": "68.5"
         },
         {
-            "undefined": "9/22/21",
+            "Date": "9/22/21",
             "Baden-Württemberg": "83.8",
             "Bayern": "85.2",
             "Berlin": "70.1",
@@ -10101,7 +10101,7 @@
             "Gesamt": "65.0"
         },
         {
-            "undefined": "9/23/21",
+            "Date": "9/23/21",
             "Baden-Württemberg": "80.7",
             "Bayern": "80.5",
             "Berlin": "69.1",
@@ -10121,7 +10121,7 @@
             "Gesamt": "63.1"
         },
         {
-            "undefined": "9/24/21",
+            "Date": "9/24/21",
             "Baden-Württemberg": "80.9",
             "Bayern": "82.0",
             "Berlin": "69.1",
@@ -10141,7 +10141,7 @@
             "Gesamt": "62.5"
         },
         {
-            "undefined": "9/25/21",
+            "Date": "9/25/21",
             "Baden-Württemberg": "79.8",
             "Bayern": "74.6",
             "Berlin": "68.8",
@@ -10161,7 +10161,7 @@
             "Gesamt": "60.6"
         },
         {
-            "undefined": "9/26/21",
+            "Date": "9/26/21",
             "Baden-Württemberg": "80.2",
             "Bayern": "81.7",
             "Berlin": "69.1",
@@ -10181,7 +10181,7 @@
             "Gesamt": "61.4"
         },
         {
-            "undefined": "9/27/21",
+            "Date": "9/27/21",
             "Baden-Württemberg": "80.9",
             "Bayern": "82.8",
             "Berlin": "69.2",
@@ -10201,7 +10201,7 @@
             "Gesamt": "61.7"
         },
         {
-            "undefined": "9/28/21",
+            "Date": "9/28/21",
             "Baden-Württemberg": "79.0",
             "Bayern": "81.2",
             "Berlin": "62.0",
@@ -10221,7 +10221,7 @@
             "Gesamt": "60.3"
         },
         {
-            "undefined": "9/29/21",
+            "Date": "9/29/21",
             "Baden-Württemberg": "80.3",
             "Bayern": "83.9",
             "Berlin": "66.0",
@@ -10241,7 +10241,7 @@
             "Gesamt": "61.0"
         },
         {
-            "undefined": "9/30/21",
+            "Date": "9/30/21",
             "Baden-Württemberg": "82.9",
             "Bayern": "86.4",
             "Berlin": "67.7",
@@ -10261,7 +10261,7 @@
             "Gesamt": "63.0"
         },
         {
-            "undefined": "10/1/21",
+            "Date": "10/1/21",
             "Baden-Württemberg": "82.4",
             "Bayern": "87.8",
             "Berlin": "74.4",
@@ -10281,7 +10281,7 @@
             "Gesamt": "64.3"
         },
         {
-            "undefined": "10/2/21",
+            "Date": "10/2/21",
             "Baden-Württemberg": "82.4",
             "Bayern": "89.7",
             "Berlin": "75.8",
@@ -10301,7 +10301,7 @@
             "Gesamt": "64.4"
         },
         {
-            "undefined": "10/3/21",
+            "Date": "10/3/21",
             "Baden-Württemberg": "82.8",
             "Bayern": "89.1",
             "Berlin": "75.3",
@@ -10321,7 +10321,7 @@
             "Gesamt": "64.2"
         },
         {
-            "undefined": "10/4/21",
+            "Date": "10/4/21",
             "Baden-Württemberg": "84.4",
             "Bayern": "90.1",
             "Berlin": "75.2",
@@ -10341,7 +10341,7 @@
             "Gesamt": "64.7"
         },
         {
-            "undefined": "10/5/21",
+            "Date": "10/5/21",
             "Baden-Württemberg": "80.3",
             "Bayern": "90.0",
             "Berlin": "76.6",
@@ -10361,7 +10361,7 @@
             "Gesamt": "63.6"
         },
         {
-            "undefined": "10/6/21",
+            "Date": "10/6/21",
             "Baden-Württemberg": "78.6",
             "Bayern": "88.6",
             "Berlin": "76.6",
@@ -10381,7 +10381,7 @@
             "Gesamt": "62.3"
         },
         {
-            "undefined": "10/7/21",
+            "Date": "10/7/21",
             "Baden-Württemberg": "78.3",
             "Bayern": "87.9",
             "Berlin": "78.2",
@@ -10401,7 +10401,7 @@
             "Gesamt": "62.6"
         },
         {
-            "undefined": "10/8/21",
+            "Date": "10/8/21",
             "Baden-Württemberg": "80.2",
             "Bayern": "90.5",
             "Berlin": "78.4",
@@ -10421,7 +10421,7 @@
             "Gesamt": "63.8"
         },
         {
-            "undefined": "10/9/21",
+            "Date": "10/9/21",
             "Baden-Württemberg": "82.7",
             "Bayern": "89.9",
             "Berlin": "77.3",
@@ -10441,7 +10441,7 @@
             "Gesamt": "64.4"
         },
         {
-            "undefined": "10/10/21",
+            "Date": "10/10/21",
             "Baden-Württemberg": "85.9",
             "Bayern": "91.3",
             "Berlin": "78.9",
@@ -10461,7 +10461,7 @@
             "Gesamt": "66.1"
         },
         {
-            "undefined": "10/11/21",
+            "Date": "10/11/21",
             "Baden-Württemberg": "86.1",
             "Bayern": "92.6",
             "Berlin": "77.9",
@@ -10481,7 +10481,7 @@
             "Gesamt": "66.5"
         },
         {
-            "undefined": "10/12/21",
+            "Date": "10/12/21",
             "Baden-Württemberg": "80.8",
             "Bayern": "92.3",
             "Berlin": "79.4",
@@ -10501,7 +10501,7 @@
             "Gesamt": "65.8"
         },
         {
-            "undefined": "10/13/21",
+            "Date": "10/13/21",
             "Baden-Württemberg": "84.8",
             "Bayern": "91.4",
             "Berlin": "80.4",
@@ -10521,7 +10521,7 @@
             "Gesamt": "65.4"
         },
         {
-            "undefined": "10/14/21",
+            "Date": "10/14/21",
             "Baden-Württemberg": "85.7",
             "Bayern": "96.7",
             "Berlin": "79.1",
@@ -10541,7 +10541,7 @@
             "Gesamt": "67.0"
         },
         {
-            "undefined": "10/15/21",
+            "Date": "10/15/21",
             "Baden-Württemberg": "88.5",
             "Bayern": "100.2",
             "Berlin": "84.7",
@@ -10561,7 +10561,7 @@
             "Gesamt": "68.7"
         },
         {
-            "undefined": "10/16/21",
+            "Date": "10/16/21",
             "Baden-Württemberg": "93.1",
             "Bayern": "105.2",
             "Berlin": "82.1",
@@ -10581,7 +10581,7 @@
             "Gesamt": "70.8"
         },
         {
-            "undefined": "10/17/21",
+            "Date": "10/17/21",
             "Baden-Württemberg": "96.2",
             "Bayern": "109.0",
             "Berlin": "85.7",
@@ -10601,7 +10601,7 @@
             "Gesamt": "72.7"
         },
         {
-            "undefined": "10/18/21",
+            "Date": "10/18/21",
             "Baden-Württemberg": "98.1",
             "Bayern": "112.9",
             "Berlin": "86.2",
@@ -10621,7 +10621,7 @@
             "Gesamt": "74.4"
         },
         {
-            "undefined": "10/19/21",
+            "Date": "10/19/21",
             "Baden-Württemberg": "96.6",
             "Bayern": "116.1",
             "Berlin": "92.5",
@@ -10641,7 +10641,7 @@
             "Gesamt": "75.1"
         },
         {
-            "undefined": "10/20/21",
+            "Date": "10/20/21",
             "Baden-Württemberg": "103.1",
             "Bayern": "128.6",
             "Berlin": "95.7",
@@ -10661,7 +10661,7 @@
             "Gesamt": "80.4"
         },
         {
-            "undefined": "10/21/21",
+            "Date": "10/21/21",
             "Baden-Württemberg": "95.7",
             "Bayern": "141.0",
             "Berlin": "108.6",
@@ -10681,7 +10681,7 @@
             "Gesamt": "85.6"
         },
         {
-            "undefined": "10/22/21",
+            "Date": "10/22/21",
             "Baden-Württemberg": "122.8",
             "Bayern": "153.9",
             "Berlin": "113.7",
@@ -10701,7 +10701,7 @@
             "Gesamt": "95.1"
         },
         {
-            "undefined": "10/23/21",
+            "Date": "10/23/21",
             "Baden-Württemberg": "127.9",
             "Bayern": "163.7",
             "Berlin": "115.8",
@@ -10721,7 +10721,7 @@
             "Gesamt": "100.0"
         },
         {
-            "undefined": "10/24/21",
+            "Date": "10/24/21",
             "Baden-Württemberg": "136.0",
             "Bayern": "172.7",
             "Berlin": "115.2",
@@ -10741,7 +10741,7 @@
             "Gesamt": "106.3"
         },
         {
-            "undefined": "10/25/21",
+            "Date": "10/25/21",
             "Baden-Württemberg": "142.4",
             "Bayern": "179.1",
             "Berlin": "114.9",
@@ -10761,7 +10761,7 @@
             "Gesamt": "110.1"
         },
         {
-            "undefined": "10/26/21",
+            "Date": "10/26/21",
             "Baden-Württemberg": "143.1",
             "Bayern": "186.7",
             "Berlin": "118.7",
@@ -10781,7 +10781,7 @@
             "Gesamt": "113.0"
         },
         {
-            "undefined": "10/27/21",
+            "Date": "10/27/21",
             "Baden-Württemberg": "148.3",
             "Bayern": "191.3",
             "Berlin": "125.0",
@@ -10801,7 +10801,7 @@
             "Gesamt": "118.0"
         },
         {
-            "undefined": "10/28/21",
+            "Date": "10/28/21",
             "Baden-Württemberg": "161.3",
             "Bayern": "208.7",
             "Berlin": "129.4",
@@ -10821,7 +10821,7 @@
             "Gesamt": "130.2"
         },
         {
-            "undefined": "10/29/21",
+            "Date": "10/29/21",
             "Baden-Württemberg": "171.1",
             "Bayern": "221.9",
             "Berlin": "137.9",
@@ -10841,7 +10841,7 @@
             "Gesamt": "139.2"
         },
         {
-            "undefined": "10/30/21",
+            "Date": "10/30/21",
             "Baden-Württemberg": "181.1",
             "Bayern": "230.7",
             "Berlin": "141.6",
@@ -10861,7 +10861,7 @@
             "Gesamt": "145.1"
         },
         {
-            "undefined": "10/31/21",
+            "Date": "10/31/21",
             "Baden-Württemberg": "187.8",
             "Bayern": "236.1",
             "Berlin": "139.2",
@@ -10881,7 +10881,7 @@
             "Gesamt": "149.4"
         },
         {
-            "undefined": "11/1/21",
+            "Date": "11/1/21",
             "Baden-Württemberg": "195.6",
             "Bayern": "248.1",
             "Berlin": "140.2",
@@ -10901,7 +10901,7 @@
             "Gesamt": "154.8"
         },
         {
-            "undefined": "11/2/21",
+            "Date": "11/2/21",
             "Baden-Württemberg": "189.3",
             "Bayern": "248.9",
             "Berlin": "156.1",
@@ -10921,7 +10921,7 @@
             "Gesamt": "153.7"
         },
         {
-            "undefined": "11/3/21",
+            "Date": "11/3/21",
             "Baden-Württemberg": "165.7",
             "Bayern": "228.4",
             "Berlin": "157.4",
@@ -10941,7 +10941,7 @@
             "Gesamt": "146.6"
         },
         {
-            "undefined": "11/4/21",
+            "Date": "11/4/21",
             "Baden-Württemberg": "173.3",
             "Bayern": "234.8",
             "Berlin": "165.6",
@@ -10961,7 +10961,7 @@
             "Gesamt": "154.5"
         },
         {
-            "undefined": "11/5/21",
+            "Date": "11/5/21",
             "Baden-Württemberg": "193.1",
             "Bayern": "256.8",
             "Berlin": "180.0",
@@ -10981,7 +10981,7 @@
             "Gesamt": "169.9"
         },
         {
-            "undefined": "11/6/21",
+            "Date": "11/6/21",
             "Baden-Württemberg": "211.2",
             "Bayern": "284.0",
             "Berlin": "199.1",
@@ -11001,7 +11001,7 @@
             "Gesamt": "183.7"
         },
         {
-            "undefined": "11/7/21",
+            "Date": "11/7/21",
             "Baden-Württemberg": "224.8",
             "Bayern": "293.0",
             "Berlin": "191.6",
@@ -11021,7 +11021,7 @@
             "Gesamt": "191.5"
         },
         {
-            "undefined": "11/8/21",
+            "Date": "11/8/21",
             "Baden-Württemberg": "235.1",
             "Bayern": "316.2",
             "Berlin": "194.5",
@@ -11041,7 +11041,7 @@
             "Gesamt": "201.1"
         },
         {
-            "undefined": "11/9/21",
+            "Date": "11/9/21",
             "Baden-Württemberg": "256.9",
             "Bayern": "348.0",
             "Berlin": "220.8",
@@ -11061,7 +11061,7 @@
             "Gesamt": "213.7"
         },
         {
-            "undefined": "11/10/21",
+            "Date": "11/10/21",
             "Baden-Württemberg": "296.9",
             "Bayern": "395.8",
             "Berlin": "227.8",
@@ -11081,7 +11081,7 @@
             "Gesamt": "232.1"
         },
         {
-            "undefined": "11/11/21",
+            "Date": "11/11/21",
             "Baden-Württemberg": "316.0",
             "Bayern": "427.4",
             "Berlin": "263.4",
@@ -11101,7 +11101,7 @@
             "Gesamt": "249.1"
         },
         {
-            "undefined": "11/12/21",
+            "Date": "11/12/21",
             "Baden-Württemberg": "332.3",
             "Bayern": "454.9",
             "Berlin": "279.2",
@@ -11121,7 +11121,7 @@
             "Gesamt": "263.7"
         },
         {
-            "undefined": "11/13/21",
+            "Date": "11/13/21",
             "Baden-Württemberg": "352.6",
             "Bayern": "478.7",
             "Berlin": "300.2",
@@ -11141,7 +11141,7 @@
             "Gesamt": "277.4"
         },
         {
-            "undefined": "11/14/21",
+            "Date": "11/14/21",
             "Baden-Württemberg": "370.3",
             "Bayern": "496.4",
             "Berlin": "305.7",
@@ -11161,7 +11161,7 @@
             "Gesamt": "289.0"
         },
         {
-            "undefined": "11/15/21",
+            "Date": "11/15/21",
             "Baden-Württemberg": "386.0",
             "Bayern": "525.7",
             "Berlin": "306.2",
@@ -11181,7 +11181,7 @@
             "Gesamt": "303.0"
         },
         {
-            "undefined": "11/16/21",
+            "Date": "11/16/21",
             "Baden-Württemberg": "377.0",
             "Bayern": "554.2",
             "Berlin": "315.8",
@@ -11201,7 +11201,7 @@
             "Gesamt": "312.4"
         },
         {
-            "undefined": "11/17/21",
+            "Date": "11/17/21",
             "Baden-Württemberg": "382.8",
             "Bayern": "568.4",
             "Berlin": "339.0",
@@ -11221,7 +11221,7 @@
             "Gesamt": "319.5"
         },
         {
-            "undefined": "11/18/21",
+            "Date": "11/18/21",
             "Baden-Württemberg": "397.7",
             "Bayern": "609.5",
             "Berlin": "340.7",
@@ -11241,7 +11241,7 @@
             "Gesamt": "336.9"
         },
         {
-            "undefined": "11/19/21",
+            "Date": "11/19/21",
             "Baden-Württemberg": "414.0",
             "Bayern": "625.3",
             "Berlin": "346.0",
@@ -11261,7 +11261,7 @@
             "Gesamt": "340.7"
         },
         {
-            "undefined": "11/20/21",
+            "Date": "11/20/21",
             "Baden-Württemberg": "421.3",
             "Bayern": "635.6",
             "Berlin": "355.8",
@@ -11281,7 +11281,7 @@
             "Gesamt": "362.2"
         },
         {
-            "undefined": "11/21/21",
+            "Date": "11/21/21",
             "Baden-Württemberg": "438.0",
             "Bayern": "639.4",
             "Berlin": "343.0",
@@ -11301,7 +11301,7 @@
             "Gesamt": "372.7"
         },
         {
-            "undefined": "11/22/21",
+            "Date": "11/22/21",
             "Baden-Württemberg": "454.2",
             "Bayern": "640.0",
             "Berlin": "338.0",
@@ -11321,7 +11321,7 @@
             "Gesamt": "386.5"
         },
         {
-            "undefined": "11/23/21",
+            "Date": "11/23/21",
             "Baden-Württemberg": "459.5",
             "Bayern": "644.9",
             "Berlin": "349.0",
@@ -11341,7 +11341,7 @@
             "Gesamt": "399.8"
         },
         {
-            "undefined": "11/24/21",
+            "Date": "11/24/21",
             "Baden-Württemberg": "470.0",
             "Bayern": "644.3",
             "Berlin": "348.6",
@@ -11361,7 +11361,7 @@
             "Gesamt": "404.5"
         },
         {
-            "undefined": "11/25/21",
+            "Date": "11/25/21",
             "Baden-Württemberg": "476.5",
             "Bayern": "641.1",
             "Berlin": "344.8",
@@ -11381,7 +11381,7 @@
             "Gesamt": "419.7"
         },
         {
-            "undefined": "11/26/21",
+            "Date": "11/26/21",
             "Baden-Württemberg": "489.9",
             "Bayern": "652.5",
             "Berlin": "357.0",
@@ -11401,7 +11401,7 @@
             "Gesamt": "438.2"
         },
         {
-            "undefined": "11/27/21",
+            "Date": "11/27/21",
             "Baden-Württemberg": "505.9",
             "Bayern": "634.5",
             "Berlin": "369.6",
@@ -11421,7 +11421,7 @@
             "Gesamt": "444.3"
         },
         {
-            "undefined": "11/28/21",
+            "Date": "11/28/21",
             "Baden-Württemberg": "514.7",
             "Bayern": "632.2",
             "Berlin": "371.6",
@@ -11441,7 +11441,7 @@
             "Gesamt": "446.7"
         },
         {
-            "undefined": "11/29/21",
+            "Date": "11/29/21",
             "Baden-Württemberg": "519.6",
             "Bayern": "627.6",
             "Berlin": "371.5",
@@ -11461,7 +11461,7 @@
             "Gesamt": "452.4"
         },
         {
-            "undefined": "11/30/21",
+            "Date": "11/30/21",
             "Baden-Württemberg": "511.5",
             "Bayern": "618.2",
             "Berlin": "372.1",
@@ -11481,7 +11481,7 @@
             "Gesamt": "452.2"
         },
         {
-            "undefined": "12/1/21",
+            "Date": "12/1/21",
             "Baden-Württemberg": "508.9",
             "Bayern": "589.3",
             "Berlin": "370.3",
@@ -11501,7 +11501,7 @@
             "Gesamt": "442.9"
         },
         {
-            "undefined": "12/2/21",
+            "Date": "12/2/21",
             "Baden-Württemberg": "519.5",
             "Bayern": "571.6",
             "Berlin": "361.5",
@@ -11521,7 +11521,7 @@
             "Gesamt": "439.2"
         },
         {
-            "undefined": "12/3/21",
+            "Date": "12/3/21",
             "Baden-Württemberg": "517.6",
             "Bayern": "561.5",
             "Berlin": "360.7",
@@ -11541,7 +11541,7 @@
             "Gesamt": "442.1"
         },
         {
-            "undefined": "12/4/21",
+            "Date": "12/4/21",
             "Baden-Württemberg": "525.3",
             "Bayern": "543.7",
             "Berlin": "351.4",
@@ -11561,7 +11561,7 @@
             "Gesamt": "442.7"
         },
         {
-            "undefined": "12/5/21",
+            "Date": "12/5/21",
             "Baden-Württemberg": "523.4",
             "Bayern": "529.6",
             "Berlin": "343.7",
@@ -11581,7 +11581,7 @@
             "Gesamt": "439.2"
         },
         {
-            "undefined": "12/6/21",
+            "Date": "12/6/21",
             "Baden-Württemberg": "533.2",
             "Bayern": "526.4",
             "Berlin": "341.4",
@@ -11601,7 +11601,7 @@
             "Gesamt": "441.9"
         },
         {
-            "undefined": "12/7/21",
+            "Date": "12/7/21",
             "Baden-Württemberg": "516.7",
             "Bayern": "520.6",
             "Berlin": "336.8",
@@ -11621,7 +11621,7 @@
             "Gesamt": "432.2"
         },
         {
-            "undefined": "12/8/21",
+            "Date": "12/8/21",
             "Baden-Württemberg": "507.6",
             "Bayern": "493.2",
             "Berlin": "342.7",
@@ -11641,7 +11641,7 @@
             "Gesamt": "427.0"
         },
         {
-            "undefined": "12/9/21",
+            "Date": "12/9/21",
             "Baden-Württemberg": "505.4",
             "Bayern": "471.2",
             "Berlin": "352.8",
@@ -11661,7 +11661,7 @@
             "Gesamt": "422.3"
         },
         {
-            "undefined": "12/10/21",
+            "Date": "12/10/21",
             "Baden-Württemberg": "491.7",
             "Bayern": "447.7",
             "Berlin": "342.2",
@@ -11681,7 +11681,7 @@
             "Gesamt": "413.7"
         },
         {
-            "undefined": "12/11/21",
+            "Date": "12/11/21",
             "Baden-Württemberg": "467.5",
             "Bayern": "427.5",
             "Berlin": "324.0",
@@ -11701,7 +11701,7 @@
             "Gesamt": "402.9"
         },
         {
-            "undefined": "12/12/21",
+            "Date": "12/12/21",
             "Baden-Württemberg": "462.6",
             "Bayern": "408.6",
             "Berlin": "314.7",
@@ -11721,7 +11721,7 @@
             "Gesamt": "390.9"
         },
         {
-            "undefined": "12/13/21",
+            "Date": "12/13/21",
             "Baden-Württemberg": "457.5",
             "Bayern": "399.1",
             "Berlin": "309.7",
@@ -11741,7 +11741,7 @@
             "Gesamt": "389.2"
         },
         {
-            "undefined": "12/14/21",
+            "Date": "12/14/21",
             "Baden-Württemberg": "429.4",
             "Bayern": "382.6",
             "Berlin": "307.8",
@@ -11761,7 +11761,7 @@
             "Gesamt": "375.0"
         },
         {
-            "undefined": "12/15/21",
+            "Date": "12/15/21",
             "Baden-Württemberg": "403.4",
             "Bayern": "356.0",
             "Berlin": "296.2",
@@ -11781,7 +11781,7 @@
             "Gesamt": "353.0"
         },
         {
-            "undefined": "12/16/21",
+            "Date": "12/16/21",
             "Baden-Württemberg": "382.3",
             "Bayern": "322.5",
             "Berlin": "288.1",
@@ -11801,7 +11801,7 @@
             "Gesamt": "340.1"
         },
         {
-            "undefined": "12/17/21",
+            "Date": "12/17/21",
             "Baden-Württemberg": "370.2",
             "Bayern": "313.4",
             "Berlin": "296.7",
@@ -11821,7 +11821,7 @@
             "Gesamt": "331.8"
         },
         {
-            "undefined": "12/18/21",
+            "Date": "12/18/21",
             "Baden-Württemberg": "353.1",
             "Bayern": "300.1",
             "Berlin": "314.0",
@@ -11841,7 +11841,7 @@
             "Gesamt": "321.8"
         },
         {
-            "undefined": "12/19/21",
+            "Date": "12/19/21",
             "Baden-Württemberg": "345.4",
             "Bayern": "288.7",
             "Berlin": "315.4",
@@ -11861,7 +11861,7 @@
             "Gesamt": "315.4"
         },
         {
-            "undefined": "12/20/21",
+            "Date": "12/20/21",
             "Baden-Württemberg": "345.6",
             "Bayern": "285.2",
             "Berlin": "316.7",
@@ -11881,7 +11881,7 @@
             "Gesamt": "316.0"
         },
         {
-            "undefined": "12/21/21",
+            "Date": "12/21/21",
             "Baden-Württemberg": "328.9",
             "Bayern": "276.7",
             "Berlin": "325.8",
@@ -11901,7 +11901,7 @@
             "Gesamt": "306.4"
         },
         {
-            "undefined": "12/22/21",
+            "Date": "12/22/21",
             "Baden-Württemberg": "306.7",
             "Bayern": "255.6",
             "Berlin": "326.1",
@@ -11921,7 +11921,7 @@
             "Gesamt": "289.0"
         },
         {
-            "undefined": "12/23/21",
+            "Date": "12/23/21",
             "Baden-Württemberg": "291.0",
             "Bayern": "246.0",
             "Berlin": "333.6",
@@ -11941,7 +11941,7 @@
             "Gesamt": "280.3"
         },
         {
-            "undefined": "12/24/21",
+            "Date": "12/24/21",
             "Baden-Württemberg": "274.2",
             "Bayern": "229.1",
             "Berlin": "322.3",
@@ -11961,7 +11961,7 @@
             "Gesamt": "265.8"
         },
         {
-            "undefined": "12/25/21",
+            "Date": "12/25/21",
             "Baden-Württemberg": "252.9",
             "Bayern": "210.7",
             "Berlin": "280.5",
@@ -11981,7 +11981,7 @@
             "Gesamt": "242.9"
         },
         {
-            "undefined": "12/26/21",
+            "Date": "12/26/21",
             "Baden-Württemberg": "220.9",
             "Bayern": "192.7",
             "Berlin": "267.9",
@@ -12001,7 +12001,7 @@
             "Gesamt": "220.7"
         },
         {
-            "undefined": "12/27/21",
+            "Date": "12/27/21",
             "Baden-Württemberg": "222.0",
             "Bayern": "190.4",
             "Berlin": "278.2",
@@ -12021,7 +12021,7 @@
             "Gesamt": "222.7"
         },
         {
-            "undefined": "12/28/21",
+            "Date": "12/28/21",
             "Baden-Württemberg": "212.4",
             "Bayern": "188.5",
             "Berlin": "263.1",
@@ -12041,7 +12041,7 @@
             "Gesamt": "215.6"
         },
         {
-            "undefined": "12/29/21",
+            "Date": "12/29/21",
             "Baden-Württemberg": "210.5",
             "Bayern": "172.6",
             "Berlin": "265.6",
@@ -12061,7 +12061,7 @@
             "Gesamt": "205.5"
         },
         {
-            "undefined": "12/30/21",
+            "Date": "12/30/21",
             "Baden-Württemberg": "215.4",
             "Bayern": "179.3",
             "Berlin": "256.2",
@@ -12081,7 +12081,7 @@
             "Gesamt": "207.4"
         },
         {
-            "undefined": "12/31/21",
+            "Date": "12/31/21",
             "Baden-Württemberg": "218.5",
             "Bayern": "182.6",
             "Berlin": "281.0",
@@ -12101,7 +12101,7 @@
             "Gesamt": "214.9"
         },
         {
-            "undefined": "1/1/22",
+            "Date": "1/1/22",
             "Baden-Württemberg": "229.7",
             "Bayern": "181.6",
             "Berlin": "282.7",
@@ -12121,7 +12121,7 @@
             "Gesamt": "220.3"
         },
         {
-            "undefined": "1/2/22",
+            "Date": "1/2/22",
             "Baden-Württemberg": "235.1",
             "Bayern": "183.3",
             "Berlin": "264.9",
@@ -12141,7 +12141,7 @@
             "Gesamt": "222.7"
         },
         {
-            "undefined": "1/3/22",
+            "Date": "1/3/22",
             "Baden-Württemberg": "238.4",
             "Bayern": "191.0",
             "Berlin": "265.1",
@@ -12161,7 +12161,7 @@
             "Gesamt": "232.4"
         },
         {
-            "undefined": "1/4/22",
+            "Date": "1/4/22",
             "Baden-Württemberg": "238.7",
             "Bayern": "199.9",
             "Berlin": "286.8",
@@ -12181,7 +12181,7 @@
             "Gesamt": "239.9"
         },
         {
-            "undefined": "1/5/22",
+            "Date": "1/5/22",
             "Baden-Württemberg": "251.7",
             "Bayern": "213.3",
             "Berlin": "336.3",
@@ -12201,7 +12201,7 @@
             "Gesamt": "258.6"
         },
         {
-            "undefined": "1/6/22",
+            "Date": "1/6/22",
             "Baden-Württemberg": "269.5",
             "Bayern": "234.7",
             "Berlin": "416.9",
@@ -12221,7 +12221,7 @@
             "Gesamt": "285.9"
         },
         {
-            "undefined": "1/7/22",
+            "Date": "1/7/22",
             "Baden-Württemberg": "256.4",
             "Bayern": "243.8",
             "Berlin": "511.5",
@@ -12241,7 +12241,7 @@
             "Gesamt": "303.4"
         },
         {
-            "undefined": "1/8/22",
+            "Date": "1/8/22",
             "Baden-Württemberg": "269.5",
             "Bayern": "269.8",
             "Berlin": "647.9",
@@ -12261,7 +12261,7 @@
             "Gesamt": "335.9"
         },
         {
-            "undefined": "1/9/22",
+            "Date": "1/9/22",
             "Baden-Württemberg": "299.7",
             "Bayern": "295.1",
             "Berlin": "685.7",
@@ -12281,7 +12281,7 @@
             "Gesamt": "362.7"
         },
         {
-            "undefined": "1/10/22",
+            "Date": "1/10/22",
             "Baden-Württemberg": "320.7",
             "Bayern": "321.8",
             "Berlin": "694.1",
@@ -12301,7 +12301,7 @@
             "Gesamt": "375.7"
         },
         {
-            "undefined": "1/11/22",
+            "Date": "1/11/22",
             "Baden-Württemberg": "324.1",
             "Bayern": "339.5",
             "Berlin": "737.2",
@@ -12321,7 +12321,7 @@
             "Gesamt": "387.9"
         },
         {
-            "undefined": "1/12/22",
+            "Date": "1/12/22",
             "Baden-Württemberg": "357.1",
             "Bayern": "375.1",
             "Berlin": "856.4",
@@ -12341,7 +12341,7 @@
             "Gesamt": "407.5"
         },
         {
-            "undefined": "1/13/22",
+            "Date": "1/13/22",
             "Baden-Württemberg": "347.5",
             "Bayern": "420.2",
             "Berlin": "918.6",
@@ -12361,7 +12361,7 @@
             "Gesamt": "427.7"
         },
         {
-            "undefined": "1/14/22",
+            "Date": "1/14/22",
             "Baden-Württemberg": "478.7",
             "Bayern": "473.1",
             "Berlin": "949.8",
@@ -12381,7 +12381,7 @@
             "Gesamt": "470.6"
         },
         {
-            "undefined": "1/15/22",
+            "Date": "1/15/22",
             "Baden-Württemberg": "519.5",
             "Bayern": "500.8",
             "Berlin": "956.9",
@@ -12401,7 +12401,7 @@
             "Gesamt": "497.1"
         },
         {
-            "undefined": "1/16/22",
+            "Date": "1/16/22",
             "Baden-Württemberg": "538.9",
             "Bayern": "527.4",
             "Berlin": "965.3",
@@ -12421,7 +12421,7 @@
             "Gesamt": "515.7"
         },
         {
-            "undefined": "1/17/22",
+            "Date": "1/17/22",
             "Baden-Württemberg": "545.9",
             "Bayern": "551.5",
             "Berlin": "947.7",
