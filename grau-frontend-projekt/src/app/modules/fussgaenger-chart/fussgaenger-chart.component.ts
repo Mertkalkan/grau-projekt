@@ -59,7 +59,8 @@ export class FussgaengerChartComponent implements OnInit {
       }
     },
     legend: {
-      data: ['Pedestrians', 'Pedestrians average per week']
+      data: ['Pedestrians', 'Pedestrians average per week'],
+     bottom: 0,
     },
     xAxis: [
       {
@@ -85,7 +86,9 @@ export class FussgaengerChartComponent implements OnInit {
     ],
     dataZoom: [
       {
-        type: 'slider'
+        type: 'slider',
+        top: '80%',
+        height: 20,
       },
       {
         type: 'inside'

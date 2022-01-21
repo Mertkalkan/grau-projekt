@@ -50,7 +50,8 @@ export class VerkehrChartComponent implements OnInit {
       }
     },
     legend: {
-      data: ['PKW', 'LKW', 'Motorrad', 'Kleintransporter']
+      data: ['PKW', 'LKW', 'Motorrad', 'Kleintransporter'],
+      bottom: 0,
     },
     toolbox: {
       orient: 'vertical',
@@ -75,7 +76,10 @@ export class VerkehrChartComponent implements OnInit {
     },
     dataZoom: [
       {
-        type: 'slider'
+        type: 'slider',
+        // width: 10,
+        top: '80%',
+        height: 20,
       },
       {
         type: 'inside'

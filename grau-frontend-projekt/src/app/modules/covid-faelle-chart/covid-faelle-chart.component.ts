@@ -55,7 +55,8 @@ export class CovidFaelleChartComponent implements OnInit {
       }
     },
     legend: {
-      data: ['Deutschland', 'Baden-Württemberg']
+      data: ['Deutschland', 'Baden-Württemberg'],
+      bottom: 0,
     },
     grid: {
       containLabel: true,
@@ -134,6 +135,8 @@ export class CovidFaelleChartComponent implements OnInit {
       {
         // show: false,
         type: 'slider',
+        top: '80%',
+        height: 20,
       },
       {
         type: 'inside',
