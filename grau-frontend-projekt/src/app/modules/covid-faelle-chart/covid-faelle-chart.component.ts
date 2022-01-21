@@ -26,8 +26,8 @@ export class CovidFaelleChartComponent implements OnInit {
 
   options: EChartsOption = {
     title: {
-      text: 'Durchschnittliche Infektionszahl',
-      subtext: 'Pro Tag',
+      text: '7-Tage-Inzidenz',
+      // subtext: 'Pro Tag',
       left: '5%',
     },
     tooltip: {
