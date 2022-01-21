@@ -38,6 +38,7 @@ export class VerkehrChartComponent implements OnInit {
     title: {
       text: 'Verkehr',
       subtext: 'Pro Tag',
+      left: '5%',
     },
     tooltip: {
       trigger: 'axis',
@@ -53,7 +54,7 @@ export class VerkehrChartComponent implements OnInit {
     },
     toolbox: {
       orient: 'vertical',
-      right: '5%',
+      right: '0%',
       feature: {
         dataView: { show: true, readOnly: false },
         magicType: { show: true, type: ['line', 'bar', 'stack'] },
@@ -70,7 +71,7 @@ export class VerkehrChartComponent implements OnInit {
     grid: {
       containLabel: true,
       top: '50%',
-      left: '5%'
+      left: '5%',
     },
     dataZoom: [
       {

@@ -31,6 +31,7 @@ export class FussgaengerChartComponent implements OnInit {
     title: {
       text: 'Passantenanzahl',
       subtext: 'Pro Tag bei Planken Mitte',
+      left: '5%',
     },
     tooltip: {
       trigger: 'axis',
@@ -43,7 +44,7 @@ export class FussgaengerChartComponent implements OnInit {
     },
     toolbox: {
       orient: 'vertical',
-      right: '5%',
+      right: '0%',
       feature: {
         dataView: { show: true, readOnly: false },
         magicType: { show: true, type: ['line', 'bar'] },
@@ -93,6 +94,7 @@ export class FussgaengerChartComponent implements OnInit {
     grid: {
       containLabel: true,
       left: '5%'
+
     }
   };
 

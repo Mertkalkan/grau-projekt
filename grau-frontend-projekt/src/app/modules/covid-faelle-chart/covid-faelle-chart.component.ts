@@ -15,15 +15,6 @@ export class CovidFaelleChartComponent implements OnInit {
   gesamt: number[] = []
   bw: number[] = []
   timestampes: string[] = []
-  markLine: echarts.MarkLineComponentOption['data'] = [{
-    name: '15-6-2020',
-    yAxis: 100,
-    xAxis: '15-6-2020',
-    label: {
-      formatter: '{b}',
-      position: 'middle'
-    }
-  }];
 
   constructor(private localeDataService: LocalDataService) {
     this.theme = ''
@@ -37,6 +28,7 @@ export class CovidFaelleChartComponent implements OnInit {
     title: {
       text: 'Durchschnittliche Infektionszahl',
       subtext: 'Pro Tag',
+      left: '5%',
     },
     tooltip: {
       trigger: 'axis'
@@ -47,7 +39,7 @@ export class CovidFaelleChartComponent implements OnInit {
     },
     toolbox: {
       orient: 'vertical',
-      right: '5%',
+      right: '0%',
       feature: {
         dataView: { show: true, readOnly: false },
         magicType: { show: true, type: ['line', 'bar', 'stack'] },
@@ -67,7 +59,7 @@ export class CovidFaelleChartComponent implements OnInit {
     },
     grid: {
       containLabel: true,
-      top: '10%',
+      top: '20%',
       left: '5%'
     },
     xAxis: {
@@ -140,10 +132,11 @@ export class CovidFaelleChartComponent implements OnInit {
     ],
     dataZoom: [
       {
-        type: 'slider'
+        // show: false,
+        type: 'slider',
       },
       {
-        type: 'inside'
+        type: 'inside',
       }
     ]
   }
